@@ -6,11 +6,6 @@ import dash
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
-
-class StatePerDrone:
-    def __init__(self, sigla = None, totalDrones = None):
-        self.sigla = sigla
-        self.totalDrones = totalDrones
     
 def getNumDrones(data):
     numDrones = []
@@ -33,43 +28,44 @@ def getPorcentagem(data):
 def prepareData():
     allData,inscricao,validade,operador,tipo_pessoa,tipo_uso,fabricante,modelo,numero_serie,peso_maximo,cidade,estado,ramo = util.leituraDados()
     years = ["2020","2019","2018"]
-    dataByState = {}
+    dataByRamo = {}
+    ramos = list(set(ramo[1:]))
 
     for year in years:
-        dataByState[year] = {}   
+        dataByRamo[year] = {}   
     
     for year in years:
-        for state in statesList:
-            dataByState[year][state] = list(filter(lambda d: state == d[10] and year == d[0].split("/")[-1], allData))
+        for ramo in ramos:
+            dataByRamo[year][ramo] = list(filter(lambda d: ramo == d[-1] and year == d[0].split("/")[-1], allData))
 
-    stateByYear = {}
+    ramoByYear = {}
     for year in years:
-        stateByYear[year] = {}
+        ramoByYear[year] = {}
 
     for year in years:
-        for state in dataByState[year]:
-            stateByYear[year][state] = len(dataByState[year][state])    
+        for ramo in dataByRamo[year]:
+            ramoByYear[year][ramo] = len(dataByRamo[year][ramo])    
     anos = []
-    estados = []
+    ramos = []
     numDrones = []
-    for key in stateByYear:
-        for key2 in stateByYear[key]:
+    for key in ramoByYear:
+        for key2 in ramoByYear[key]:
             anos.append(key)
-            estados.append(key2)
-            numDrones.append(stateByYear[key][key2])
-    d = {'Ano': anos, 'Estado': estados, 'Drones cadastrados': numDrones}
+            ramos.append(key2)
+            numDrones.append(ramoByYear[key][key2])
+    d = {'Ano': anos, 'Ramo': ramos, 'Drones cadastrados': numDrones}
     return pd.DataFrame(d)
 
 if __name__ == '__main__':
     data = prepareData()
     data_filtered = data[data.Ano == "2018"]
-    fig = go.Figure(go.Bar(x= data_filtered['Drones cadastrados'], y= data['Estado'].unique(), name="2018", orientation='h'))
+    fig = go.Figure(go.Bar(x= data_filtered['Drones cadastrados'], y= data['Ramo'].unique(), name="2018", orientation='h'))
     data_filtered = data[data.Ano == "2019"]
-    fig.add_trace(go.Bar(x= data_filtered['Drones cadastrados'], y= data['Estado'].unique(), name="2019", orientation='h'))
+    fig.add_trace(go.Bar(x= data_filtered['Drones cadastrados'], y= data['Ramo'].unique(), name="2019", orientation='h'))
     data_filtered = data[data.Ano == "2020"]
-    fig.add_trace(go.Bar(x= data_filtered['Drones cadastrados'], y= data['Estado'].unique(), name="2020", orientation='h'))
-    fig.update_layout(title='Drones cadastrados ao longo dos anos por estado', barmode='stack', yaxis={'categoryorder':'sum ascending'}, height=700)
-    fig.update_xaxes(range=[0,27000])
+    fig.add_trace(go.Bar(x= data_filtered['Drones cadastrados'], y= data['Ramo'].unique(), name="2020", orientation='h'))
+    fig.update_layout(title='Drones cadastrados ao longo dos anos por ramo', barmode='stack', yaxis={'categoryorder':'sum ascending'}, height=700)
+    fig.update_xaxes(range=[0,56000])
 
     app = dash.Dash()
     app.layout = html.Div([
