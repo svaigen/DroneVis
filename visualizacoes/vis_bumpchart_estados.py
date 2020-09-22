@@ -41,7 +41,8 @@ def prepareData():
     dataByPeriodo(allData)
     d = pd.DataFrame(allData[1:], columns=allData[0])
     estadosList = ['AC','AL','AP','AM','BA','CE','DF','ES','GO','MA','MT','MS','MG','PA','PB','PR','PE','PI','RJ','RN','RS','RO','RR','SC','SP','SE','TO']
-    
+    orderEstadosRet = []
+
     dictEstadosPeriodos = {}
     for estado in estadosList:
       dictEstadosPeriodos[estado] = {} 
@@ -50,6 +51,7 @@ def prepareData():
         valEst = valInsc[valInsc.estado == estado]
         dictEstadosPeriodos[estado][periodo] = [0,len(valEst)]
     
+    firstPeriodo = True #para calcular e retornar a lista ordenada dos estados pelo primeiro trimestre
     for periodo in periodos:
       listToOrder = []
       for estado in estadosList:
@@ -58,7 +60,10 @@ def prepareData():
       i = 1
       for data in listToOrder:
         dictEstadosPeriodos[data[0]][periodo][0] = i if i > 9 else "0{}".format(i)
+        if firstPeriodo:
+          orderEstadosRet.append(data[0])
         i += 1
+      firstPeriodo = False
 
     pCols = []
     eCols = []
@@ -72,16 +77,17 @@ def prepareData():
         dCols.append(dictEstadosPeriodos[estado][periodo][1])
 
     d = {'Periodo': pCols, 'Estado': eCols, 'Ranking': oCols, '# drones': dCols}
-    return pd.DataFrame(d)
+    return orderEstadosRet, pd.DataFrame(d)
 
 if __name__ == '__main__':
-    data = prepareData()
+    estados, data = prepareData()
     fig = go.Figure()
     pallete = util.getPallete27colors()
-    for estado in list(data['Estado'].unique()):
-      r = random.randint(0,255)
-      g = random.randint(0,255)
-      b = random.randint(0,255)
+    counter = 0
+    for estado in estados:
+      r = pallete[counter][0]
+      g = pallete[counter][1]
+      b = pallete[counter][2]
       color = "rgb({},{},{})".format(r, g, b)
       data_filtered = data[data.Estado == estado]
       fig.add_trace(go.Scatter(
@@ -94,10 +100,11 @@ if __name__ == '__main__':
                       hovertemplate = "# de drones: %{hovertext}<extra></extra>",
                       hovertext = data_filtered['# drones'],
                       text = estado,
-                      textfont = dict(color = "{}".format("#000000" if (r*0.299 + g*0.587 + b*0.114) > 186 else "#ffffff"))
+                      textfont = dict(color = "{}".format("#000000" if (r*0.299 + g*0.587 + b*0.114) > 150 else "#ffffff"))
                     ))
+      counter += 1
     fig.update_yaxes(type='category')
-    fig.update_layout(title='Ranking dos estados por trimestre',
+    fig.update_layout(title='Ranking dos estados ao longo dos trimestres baseado no número de drones cadastrados',
                       yaxis={'categoryorder':'category descending', 'title' : 'Posição no ranking'},
                       xaxis={'title' : 'trimestre/ano'},
                       height=800,
