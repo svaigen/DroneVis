@@ -1,0 +1,3149 @@
+﻿,regiao,estado,cidade,drones
+0,Sudeste,ES,Colatina,36
+1,Centro-Oeste,MT,Cuiabá,451
+2,Centro-Oeste,DF,Brasília,2634
+3,Sudeste,MG,Matozinhos,12
+4,Sudeste,SP,São Paulo,9622
+5,Sul,SC,Balneário Piçarras,15
+6,Sul,SC,Florianópolis,849
+7,Sul,PR,Ibiporã,8
+8,Sudeste,SP,Araraquara,144
+9,Nordeste,PE,Recife,913
+10,Sul,SC,Lauro Müller,3
+11,Sul,SC,Blumenau,295
+12,Sudeste,MG,Sete Lagoas,88
+13,Centro-Oeste,GO,Goiânia,899
+14,Sul,RS,Bento Gonçalves,64
+15,Sul,PR,Curitiba,1893
+16,Sudeste,SP,Ribeirão Preto,463
+17,Sudeste,SP,Santos,456
+18,Sudeste,SP,Americana,201
+19,Sudeste,RJ,Rio de Janeiro,5430
+20,Nordeste,PB,João Pessoa,394
+21,Nordeste,PI,Teresina,205
+22,Sudeste,SP,Osasco,369
+23,Nordeste,SE,Aracaju,615
+24,Sudeste,SP,Barueri,303
+25,Nordeste,BA,Salvador,1322
+26,Sul,PR,Marechal Cândido Rondon,22
+27,Sudeste,SP,Bertioga,38
+28,Sul,RS,Bagé,28
+29,Sul,SC,Capivari de Baixo,11
+30,Sul,PR,Paranaguá,42
+31,Nordeste,PE,Caruaru,76
+32,Sudeste,MG,Prata,7
+33,Sudeste,SP,Bebedouro,63
+34,Sudeste,SP,Praia Grande,177
+35,Sudeste,RJ,Resende,71
+36,Sudeste,SP,Rio Claro,118
+37,Sudeste,MG,Belo Horizonte,2206
+38,Sudeste,MG,Viçosa,64
+39,Sudeste,MG,Uberlândia,382
+40,Sudeste,MG,Campo Florido,2
+41,Nordeste,BA,Livramento de Nossa Senhora,5
+42,Sudeste,SP,Campinas,878
+43,Nordeste,BA,Mata de São João,10
+44,Nordeste,BA,Feira de Santana,205
+45,Sul,PR,Ponta Grossa,190
+46,Sul,SC,Joinville,345
+47,Norte,RO,Porto Velho,176
+48,Nordeste,BA,Porto Seguro,52
+49,Norte,PA,Belém,432
+50,Nordeste,PB,Campina Grande,112
+51,Sudeste,SP,Taubaté,160
+52,Sul,RS,Porto Alegre,1117
+53,Sudeste,SP,Bariri,9
+54,Sudeste,SP,Mauá,130
+55,Sudeste,SP,Lençóis Paulista,105
+56,Nordeste,CE,Fortaleza,960
+57,Centro-Oeste,MT,Primavera do Leste,42
+58,Sul,PR,Maringá,243
+59,Sudeste,SP,Sorocaba,391
+60,Sudeste,SP,São Bernardo do Campo,621
+61,Nordeste,AL,Igaci,1
+62,Nordeste,PE,Araripina,15
+63,Sudeste,SP,Capivari,21
+64,Sudeste,SP,Indaiatuba,174
+65,Sul,RS,Nova Prata,9
+66,Nordeste,MA,São Luís,396
+67,Sul,PR,Londrina,398
+68,Sul,PR,Araucária,40
+69,Sudeste,MG,Contagem,219
+70,Nordeste,PE,Petrolina,99
+71,Sudeste,RJ,Rio das Ostras,93
+72,Sul,PR,Foz do Iguaçu,185
+73,Sudeste,SP,São Caetano do Sul,283
+74,Centro-Oeste,GO,Luziânia,29
+75,Norte,AM,Manaus,772
+76,Centro-Oeste,MS,Campo Grande,600
+77,Sul,RS,Lagoa dos Três Cantos,1
+78,Norte,RR,Boa Vista,173
+79,Centro-Oeste,GO,Aparecida de Goiânia,123
+80,Sul,SC,Garopaba,27
+81,Sudeste,RJ,Niterói,578
+82,Sudeste,SP,Novo Horizonte,9
+83,Sudeste,SP,Jundiaí,411
+84,Nordeste,BA,Teixeira de Freitas,35
+85,Sudeste,RJ,Queimados,25
+86,Nordeste,BA,Caetité,15
+87,Sudeste,MG,Itajubá,53
+88,Sudeste,SP,Sumaré,101
+89,Sudeste,SP,Salto de Pirapora,13
+90,Centro-Oeste,MT,Sorriso,54
+91,Sudeste,RJ,Magé,46
+92,Nordeste,RN,Parnamirim,131
+93,Sul,RS,Gravataí,85
+94,Sudeste,SP,São José dos Campos,679
+95,Sul,SC,Chapecó,99
+96,Nordeste,BA,Ilhéus,45
+97,Sudeste,RJ,Petrópolis,195
+98,Sudeste,SP,São João da Boa Vista,47
+99,Nordeste,PE,Jaboatão dos Guararapes,194
+100,Sudeste,SP,Itu,120
+101,Sul,SC,Criciúma,150
+102,Sul,RS,Carazinho,22
+103,Sudeste,RJ,Itaboraí,40
+104,Nordeste,PE,Vitória de Santo Antão,20
+105,Sul,SC,Indaial,34
+106,Sudeste,SP,Pedreira,12
+107,Sudeste,SP,Pindamonhangaba,56
+108,Sudeste,SP,Piracicaba,238
+109,Sul,PR,Palotina,16
+110,Sudeste,MG,Juiz de Fora,309
+111,Norte,RO,Cacoal,9
+112,Sudeste,MG,Chapada Gaúcha,1
+113,Sudeste,SP,Santo André,623
+114,Sul,SC,Brusque,58
+115,Sudeste,RJ,Volta Redonda,142
+116,Sudeste,MG,Moeda,4
+117,Sudeste,MG,Varginha,54
+118,Sul,SC,Camboriú,39
+119,Nordeste,BA,Pojuca,13
+120,Sul,PR,Cascavel,190
+121,Norte,PA,Canaã dos Carajás,28
+122,Sudeste,SP,Luís Antônio,3
+123,Sul,RS,Viamão,41
+124,Sudeste,ES,São Gabriel da Palha,3
+125,Nordeste,RN,Natal,417
+126,Sudeste,MG,Mariana,47
+127,Sudeste,SP,Jaboticabal,35
+128,Sudeste,SP,Igarapava,10
+129,Sudeste,MG,Miguel Burnier,8
+130,Sul,SC,Balneário Camboriú,165
+131,Nordeste,BA,Posto da Mata,5
+132,Norte,AM,Parintins,13
+133,Sul,PR,Rio Negro,14
+134,Norte,PA,Itaituba,16
+135,Sudeste,ES,Serra,172
+136,Nordeste,-,,241
+137,Sudeste,MG,Ipatinga,101
+138,Nordeste,CE,Jijoca de Jericoacoara,7
+139,Sudeste,RJ,Macaé,169
+140,Sudeste,MG,Alfenas,27
+141,Sul,RS,São Leopoldo,79
+142,Sul,PR,Peabiru,2
+143,Norte,RO,Pimenta Bueno,13
+144,Sudeste,RJ,Varre-Sai,4
+145,Centro-Oeste,GO,Catalão,44
+146,Sudeste,SP,Cotia,174
+147,Sudeste,SP,São José do Rio Preto,267
+148,Sudeste,SP,Colina,6
+149,Sudeste,RJ,Belford Roxo,54
+150,Sudeste,MG,Montes Claros,134
+151,Sul,PR,Tupãssi,2
+152,Norte,AP,Macapá,121
+153,Sudeste,ES,Conceição do Castelo,1
+154,Centro-Oeste,GO,Barro Alto,8
+155,Norte,RO,Colorado do Oeste,7
+156,Norte,PA,Marabá,64
+157,Sudeste,ES,Vitória,448
+158,Sudeste,SP,Marília,96
+159,Sudeste,SP,Guarujá,183
+160,Sudeste,MG,Fronteira,3
+161,Sudeste,SP,Bauru,230
+162,Nordeste,SE,Rosário do Catete,3
+163,Nordeste,MA,Paço do Lumiar,13
+164,Sul,PR,Harmonia,17
+165,Nordeste,AL,Maceió,286
+166,Sudeste,MG,Santa Luzia,80
+167,Centro-Oeste,MS,Bataguassu,6
+168,Sul,PR,Pato Branco,50
+169,Centro-Oeste,MS,Sidrolândia,5
+170,Sudeste,SP,São Joaquim da Barra,31
+171,Sudeste,SP,Adamantina,8
+172,Sul,SC,Timbó,34
+173,Sudeste,SP,Mogi Guaçu,52
+174,Sul,RS,Canoas,144
+175,Sudeste,MG,Betim,106
+176,Sudeste,SP,Mogi das Cruzes,176
+177,Sudeste,RJ,Rio Bonito,16
+178,Sul,SC,Mafra,26
+179,Sudeste,MG,Nova Lima,193
+180,Centro-Oeste,GO,Anápolis,137
+181,Sul,PR,Apucarana,22
+182,Sudeste,MG,Piranguinho,3
+183,Sudeste,SP,Paulínia,115
+184,Sudeste,MG,Itapecerica,8
+185,Nordeste,BA,Guanambi,21
+186,Sul,PR,Cruzeiro do Oeste,5
+187,Nordeste,AL,Santana do Mundaú,1
+188,Sul,PR,Campo Mourão,39
+189,Sudeste,RJ,Papucaia,4
+190,Nordeste,BA,Paulo Afonso,33
+191,Sudeste,SP,Diadema,122
+192,Centro-Oeste,MT,Sapezal,9
+193,Sudeste,RJ,São João de Meriti,85
+194,Sudeste,SP,Jandira,58
+195,Sul,PR,União da Vitória,17
+196,Sul,PR,Tibagi,14
+197,Sudeste,RJ,Nova Friburgo,106
+198,Sul,PR,Cornélio Procópio,11
+199,Sudeste,SP,Socorro,29
+200,Sul,PR,Ivaiporã,6
+201,Sudeste,SP,Pirassununga,70
+202,Sudeste,RJ,São Gonçalo,235
+203,Sudeste,SP,Castilho,3
+204,Centro-Oeste,MT,Diamantino,5
+205,Sudeste,SP,Embu das Artes,55
+206,Norte,PA,Parauapebas,51
+207,Centro-Oeste,MT,Pontes e Lacerda,10
+208,Sudeste,SP,Taboão da Serra,123
+209,Sul,SC,Joaçaba,15
+210,Sudeste,RJ,Teresópolis,94
+211,Sudeste,SP,Guareí,2
+212,Sul,PR,Cambé,30
+213,Nordeste,CE,Várzea Alegre,4
+214,Sudeste,SP,Itupeva,40
+215,Sudeste,MG,Unaí,22
+216,Sul,RS,Imbé,9
+217,Norte,PA,Santarém,64
+218,Norte,PA,Porto Trombetas,12
+219,Sudeste,MG,João Monlevade,31
+220,Sul,RS,Caxias do Sul,211
+221,Norte,AC,Rio Branco,95
+222,Sudeste,MG,Poços de Caldas,158
+223,Sudeste,SP,Assis,51
+224,Sul,PR,Iguatemi,6
+225,Sul,RS,Novo Hamburgo,110
+226,Sudeste,SP,Guariba,14
+227,Norte,TO,Palmas,160
+228,Centro-Oeste,GO,Santa Fé de Goiás,2
+229,Sudeste,SP,São Carlos,210
+230,Sul,PR,Pinhais,67
+231,Sudeste,SP,Garça,10
+232,Sudeste,SP,Guarulhos,512
+233,Centro-Oeste,GO,Valparaíso de Goiás,38
+234,Sul,RS,São Borja,9
+235,Nordeste,CE,Tianguá,5
+236,Sudeste,MG,Pouso Alegre,68
+237,Centro-Oeste,GO,Rio Verde,70
+238,Sul,PR,Guarapuava,62
+239,Nordeste,PI,Oeiras,3
+240,Sul,PR,Toledo,59
+241,Sul,RS,Sapiranga,18
+242,Norte,PA,Carajás,57
+243,Sudeste,RJ,Engenheiro Paulo de Frontin,3
+244,Nordeste,MA,Raposa,8
+245,Sudeste,SP,Monte Azul Paulista,5
+246,Sul,PR,Tapejara,12
+247,Sudeste,SP,Presidente Prudente,187
+248,Sul,RS,Tramandaí,19
+249,Sudeste,SP,Caçapava,43
+250,Sul,PR,Bela Vista do Paraíso,2
+251,Sul,RS,Pelotas,119
+252,Sul,PR,Cidade Gaúcha,4
+253,Sudeste,SP,Atibaia,83
+254,Sul,PR,Telêmaco Borba,20
+255,Sudeste,MG,Santo Antônio do Monte,6
+256,Sudeste,SP,Santa Cruz das Palmeiras,9
+257,Sudeste,MG,Diamantina,25
+258,Sudeste,ES,Nova Venécia,9
+259,Sul,SC,Biguaçu,24
+260,Centro-Oeste,MT,Cocalinho,2
+261,Sudeste,MG,Itabira,59
+262,Sudeste,SP,Embu-Guaçu,22
+263,Sul,RS,São Gabriel,12
+264,Sul,RS,São Miguel das Missões,1
+265,Sul,RS,Chapada,2
+266,Nordeste,PB,Santa Rita,18
+267,Sul,RS,Canela,18
+268,Sudeste,SP,Limeira,733
+269,Sudeste,MG,Teófilo Otoni,34
+270,Sudeste,SP,Jacareí,115
+271,Nordeste,BA,Abrantes,7
+272,Sudeste,SP,Avaré,37
+273,Sudeste,MG,Caiana,1
+274,Sul,SC,Concórdia,29
+275,Sul,RS,Seberi,3
+276,Sul,PR,Matinhos,17
+277,Sudeste,MG,São Lourenço,18
+278,Sudeste,MG,Bocaina de Minas,2
+279,Sudeste,ES,Aracruz,64
+280,Sul,SC,Palhoça,105
+281,Nordeste,RN,Mossoró,80
+282,Norte,PA,Quatro Bocas,3
+283,Nordeste,MA,Timon,17
+284,Nordeste,CE,Russas,6
+285,Sudeste,RJ,Três Rios,20
+286,Centro-Oeste,MT,Sinop,90
+287,Sul,SC,Itajaí,171
+288,Sudeste,SP,Barretos,52
+289,Sudeste,RJ,Maricá,89
+290,Sudeste,SP,Campo Limpo Paulista,25
+291,Nordeste,RN,Guamaré,4
+292,Sudeste,SP,Caieiras,52
+293,Sudeste,MG,Uberaba,161
+294,Sudeste,MG,Eugenópolis,2
+295,Sudeste,SP,Penápolis,10
+296,Sudeste,RJ,Itaguaí,29
+297,Nordeste,CE,Pires Ferreira,1
+298,Nordeste,CE,Canindé,3
+299,Sudeste,RJ,Seropédica,37
+300,Sudeste,SP,Cruzeiro,21
+301,Centro-Oeste,GO,Campos Belos,4
+302,Centro-Oeste,GO,Itapaci,1
+303,Nordeste,CE,Paracuru,7
+304,Sudeste,MG,Ouro Preto,43
+305,Sul,SC,Balneário Gaivota,2
+306,Sul,PR,São Mateus do Sul,6
+307,Nordeste,BA,Senhor do Bonfim,9
+308,Sudeste,RJ,Barcelos,2
+309,Sudeste,SP,Leme,44
+310,Centro-Oeste,GO,Itumbiara,33
+311,Sudeste,MG,Arcos,15
+312,Centro-Oeste,MS,Chapadão do Sul,13
+313,Sul,PR,Piraquara,28
+314,Nordeste,BA,Camaçari,66
+315,Nordeste,PE,Camaragibe,39
+316,Sudeste,SP,Vargem Grande Paulista,31
+317,Sudeste,SP,Itapeva,46
+318,Nordeste,PI,Picos,11
+319,Sudeste,SP,Casa Branca,17
+320,Sudeste,ES,Afonso Cláudio,5
+321,Sudeste,MG,Ritápolis,2
+322,Nordeste,BA,Conceição do Jacuípe,2
+323,Nordeste,BA,Canavieiras,5
+324,Sul,SC,Porto União,8
+325,Sudeste,MG,Perpétuo Socorro,9
+326,Sudeste,RJ,Nilópolis,41
+327,Sudeste,SP,Dracena,20
+328,Sudeste,MG,Ribeirão Vermelho,2
+329,Sudeste,SP,Pirajuí,8
+330,Sudeste,SP,Bragança Paulista,99
+331,Sudeste,MG,São João Del Rei,41
+332,Sudeste,MG,Patos de Minas,55
+333,Sul,PR,Guaratuba,15
+334,Sudeste,SP,Ilha Solteira,17
+335,Sudeste,SP,Pedregulho,7
+336,Sudeste,RJ,São João da Barra,8
+337,Sul,RS,Rio Grande,88
+338,Sul,RS,Ivoti,15
+339,Sul,PR,Faxinal,7
+340,Sudeste,MG,Borda da Mata,3
+341,Sul,PR,Guaíra,30
+342,Sul,RS,Tapes,7
+343,Sul,SC,Videira,15
+344,Sul,SC,Itapema,56
+345,Sudeste,MG,Guarani,2
+346,Sul,RS,Parobé,7
+347,Sul,RS,Marau,8
+348,Centro-Oeste,MT,Chapada dos Guimarães,8
+349,Sudeste,SP,Barra Bonita,39
+350,Sudeste,RJ,Duque de Caxias,161
+351,Sudeste,SP,Capão Bonito,16
+352,Sudeste,SP,Guararema,17
+353,Sudeste,MG,Formiga,28
+354,Sudeste,SP,Nova Granada,1
+355,Nordeste,RN,Alto do Rodrigues,2
+356,Sudeste,SP,Porto Ferreira,22
+357,Sudeste,SP,Nova Odessa,23
+358,Nordeste,BA,Lauro de Freitas,188
+359,Sudeste,SP,Vinhedo,69
+360,Centro-Oeste,MS,Três Lagoas,53
+361,Sul,SC,Bombinhas,18
+362,Sudeste,SP,Campos do Jordão,25
+363,Sudeste,SP,Itanhaém,29
+364,Sul,PR,Irati,22
+365,Sudeste,SP,Descalvado,11
+366,Sul,RS,Passo Fundo,94
+367,Sul,PR,Medianeira,13
+368,Centro-Oeste,GO,Cristalina,11
+369,Sudeste,SP,Valinhos,142
+370,Sul,SC,Correia Pinto,3
+371,Sudeste,MG,Três Marias,7
+372,Sudeste,SP,Piraju,15
+373,Sul,PR,São Miguel do Iguaçu,11
+374,Sul,PR,Almirante Tamandaré,32
+375,Sul,SC,Tijucas,22
+376,Nordeste,PE,Ipojuca,29
+377,Sudeste,SP,Ribeirão Pires,37
+378,Sudeste,MG,Carvalhópolis,1
+379,Sudeste,SP,Cachoeira Paulista,13
+380,Sudeste,SP,São Roque,31
+381,Nordeste,PE,Limoeiro,11
+382,Sudeste,MG,Bueno Brandão,1
+383,Sudeste,SP,Suzano,98
+384,Sul,RS,Erechim,37
+385,Sudeste,SP,Hortolândia,64
+386,Nordeste,PE,Paulista,103
+387,Nordeste,RN,Ceará-Mirim,10
+388,Sudeste,SP,Araçatuba,92
+389,Sudeste,SP,Pompéia,10
+390,Norte,AM,Itacoatiara,16
+391,Norte,TO,Gurupi,22
+392,Sudeste,SP,Monte Alto,21
+393,Sudeste,RJ,Itaperuna,30
+394,Norte,TO,Paraíso do Tocantins,8
+395,Sudeste,MG,Boa Esperança,12
+396,Sul,PR,Paranavaí,18
+397,Sudeste,SP,Olímpia,33
+398,Sudeste,SP,Lins,28
+399,Centro-Oeste,GO,Jaraguá,6
+400,Norte,AM,Autazes,7
+401,Norte,PA,Altamira,42
+402,Centro-Oeste,GO,Jataí,39
+403,Nordeste,PE,Salgueiro,9
+404,Sul,PR,Campo Largo,51
+405,Sul,PR,Catanduvas,3
+406,Sudeste,ES,Vila Velha,286
+407,Nordeste,BA,Irecê,33
+408,Centro-Oeste,GO,Formosa,39
+409,Sudeste,MG,Extrema,10
+410,Sul,PR,Arapongas,47
+411,Sudeste,SP,Cosmópolis,37
+412,Sul,RS,Dois Irmãos,12
+413,Nordeste,PB,Junco do Seridó,2
+414,Sudeste,MG,Timóteo,76
+415,Sudeste,SP,Taquaritinga,21
+416,Sul,SC,Otacílio Costa,12
+417,Sul,RS,Cachoeirinha,62
+418,Nordeste,SE,Nossa Senhora da Glória,6
+419,Sul,PR,Jaguariaíva,10
+420,Nordeste,PE,Fernando de Noronha,16
+421,Sudeste,MG,Araçuaí,9
+422,Centro-Oeste,MS,Rio Verde de Mato Grosso,5
+423,Sudeste,SP,Itapevi,58
+424,Sul,SC,São Bento do Sul,28
+425,Sudeste,SP,Cabreúva,11
+426,Centro-Oeste,GO,Alexânia,4
+427,Sudeste,SP,Tupã,31
+428,Sudeste,RJ,Barra do Piraí,23
+429,Norte,PA,Paragominas,17
+430,Sudeste,RJ,Angra dos Reis,74
+431,Sul,RS,Mato Castelhano,2
+432,Centro-Oeste,GO,Goianésia,22
+433,Sul,SC,Taió,13
+434,Sudeste,RJ,Campos dos Goytacazes,123
+435,Sudeste,SP,Santa Bárbara D'Oeste,93
+436,Nordeste,PB,Cabedelo,36
+437,Nordeste,RN,Goianinha,4
+438,Sul,SC,Passo de Torres,14
+439,Nordeste,CE,Alcântaras,1
+440,Sudeste,MG,Brumadinho,25
+441,Sudeste,MG,Santa Rita de Caldas,5
+442,Sudeste,SP,São Vicente,140
+443,Sul,SC,Cocal do Sul,9
+444,Sul,SC,Água Doce,1
+445,Nordeste,BA,Barreiras,72
+446,Sudeste,SP,Franca,127
+447,Nordeste,CE,Juazeiro do Norte,51
+448,Nordeste,CE,Quixeramobim,5
+449,Norte,RO,Itapuã do Oeste,3
+450,Sudeste,SP,Pederneiras,17
+451,Sudeste,SP,Botucatu,90
+452,Sul,PR,São José dos Pinhais,130
+453,Sudeste,RJ,Nova Iguaçu,179
+454,Sul,RS,Palmeira das Missões,10
+455,Centro-Oeste,MT,Nova Mutum,19
+456,Centro-Oeste,MS,Dourados,77
+457,Sudeste,SP,Junqueirópolis,8
+458,Sul,RS,Cachoeira do Sul,64
+459,Sudeste,SP,São José do Rio Pardo,16
+460,Sul,SC,Santa Rosa do Sul,2
+461,Sul,SC,Rio do Sul,38
+462,Nordeste,PE,Olinda,120
+463,Nordeste,CE,Cruz,3
+464,Nordeste,PE,Afogados da Ingazeira,1
+465,Sudeste,SP,Maracaí,5
+466,Sudeste,MG,Paracatu,43
+467,Nordeste,PB,Mataraca,2
+468,Sudeste,RJ,Saquarema,24
+469,Norte,RO,Vilhena,23
+470,Centro-Oeste,MS,Paranaíba,5
+471,Sul,RS,Santo Antônio da Patrulha,13
+472,Sul,SC,Tubarão,43
+473,Nordeste,CE,Maracanaú,17
+474,Sudeste,MG,Leopoldina,13
+475,Nordeste,MA,Penalva,1
+476,Sul,PR,Ribeirão Claro,3
+477,Centro-Oeste,GO,Ceres,2
+478,Sudeste,SP,Votuporanga,45
+479,Sudeste,RJ,São Pedro da Aldeia,44
+480,Sudeste,SP,Cerqueira César,5
+481,Sul,PR,Mercedes,1
+482,Centro-Oeste,MS,Ribas do Rio Pardo,4
+483,Nordeste,SE,Areia Branca,5
+484,Nordeste,BA,Dias D'Ávila,15
+485,Sudeste,MG,Conselheiro Lafaiete,54
+486,Sudeste,MG,Rio Piracicaba,11
+487,Sul,SC,Orleans,11
+488,Nordeste,BA,Cícero Dantas,4
+489,Centro-Oeste,GO,Cachoeira Dourada,6
+490,Sudeste,SP,José Bonifácio,13
+491,Sudeste,RJ,Cabo Frio,122
+492,Centro-Oeste,GO,Mineiros,31
+493,Centro-Oeste,MS,Corumbá,44
+494,Sul,SC,São Lourenço do Oeste,6
+495,Sul,PR,Bom Jesus do Sul,1
+496,Sudeste,MG,Estrela do Indaiá,1
+497,Sudeste,SP,Caraguatatuba,55
+498,Sudeste,RJ,Paracambi,6
+499,Sul,RS,Santa Maria,117
+500,Sul,RS,Santa Rosa,28
+501,Sul,PR,Marialva,8
+502,Nordeste,AL,Delmiro Gouveia,2
+503,Sudeste,SP,Franco da Rocha,43
+504,Nordeste,BA,Itiruçu,4
+505,Nordeste,CE,Eusébio,28
+506,Sudeste,SP,Pariquera-Açu,10
+507,Sudeste,SP,Salto,53
+508,Sudeste,SP,Agudos,10
+509,Sul,RS,Teutônia,14
+510,Norte,PA,Vitória do Xingu,7
+511,Centro-Oeste,MT,Várzea Grande,72
+512,Sul,RS,Farroupilha,31
+513,Sudeste,MG,Guaxupé,16
+514,Sudeste,RJ,Mesquita,52
+515,Centro-Oeste,MT,Tangará da Serra,40
+516,Centro-Oeste,MT,Colíder,10
+517,Sul,RS,Santa Cruz do Sul,60
+518,Sudeste,SP,Birigüi,36
+519,Sul,RS,Rio Pardo,8
+520,Nordeste,PE,Cabo de Santo Agostinho,41
+521,Centro-Oeste,GO,Uruaçu,9
+522,Sul,RS,Charqueadas,13
+523,Centro-Oeste,GO,Caldas Novas,25
+524,Sudeste,SP,Mococa,30
+525,Sudeste,MG,Manhuaçu,28
+526,Sul,RS,Caçapava do Sul,12
+527,Sudeste,SP,São Bento do Sapucaí,7
+528,Sul,SC,Balneário Rincão,5
+529,Sudeste,MG,Barão de Cocais,15
+530,Nordeste,AL,Campo Alegre,3
+531,Sul,SC,Ouro,4
+532,Sudeste,MG,Confins,3
+533,Sudeste,MG,Divinópolis,62
+534,Nordeste,MA,Imperatriz,64
+535,Sul,RS,São Francisco de Assis,3
+536,Nordeste,CE,Caucaia,32
+537,Sul,RS,Taquara,14
+538,Sudeste,MG,Abaeté,4
+539,Sul,SC,Lages,81
+540,Sudeste,SP,Amparo,25
+541,Sudeste,SP,Santana de Parnaíba,202
+542,Nordeste,MA,São Bernardo,1
+543,Sudeste,MG,Campanha,3
+544,Norte,PA,Ananindeua,77
+545,Sudeste,MG,Coromandel,12
+546,Sudeste,SP,Ribeirão Bonito,6
+547,Centro-Oeste,GO,Porangatu,10
+548,Sul,PR,Rolândia,14
+549,Sudeste,SP,São Luiz do Paraitinga,5
+550,Sudeste,SP,Águas de Lindóia,7
+551,Sudeste,MG,São Gonçalo do Sapucaí,4
+552,Centro-Oeste,GO,Cidade Ocidental,12
+553,Sudeste,SP,Campina do Monte Alegre,1
+554,Nordeste,MA,Balsas,17
+555,Sudeste,RJ,Bom Jesus do Itabapoana,9
+556,Sudeste,MG,São Sebastião do Paraíso,24
+557,Sudeste,ES,Linhares,54
+558,Nordeste,BA,Andaraí,1
+559,Sul,RS,Esteio,26
+560,Nordeste,BA,São José do Rio Grande,1
+561,Centro-Oeste,MS,Glória de Dourados,1
+562,Sudeste,SP,Lorena,21
+563,Sudeste,SP,Peruíbe,39
+564,Nordeste,CE,Iguatu,21
+565,Centro-Oeste,MT,Campo Novo do Parecis,12
+566,Nordeste,BA,Simões Filho,18
+567,Sudeste,SP,Itapecerica da Serra,34
+568,Nordeste,BA,Vitória da Conquista,71
+569,Sudeste,SP,Itaquaquecetuba,51
+570,Centro-Oeste,MT,Paranaitá,3
+571,Norte,RO,Ouro Preto do Oeste,9
+572,Sul,RS,Flores da Cunha,14
+573,Nordeste,AL,Colônia Leopoldina,1
+574,Sudeste,SP,Araras,60
+575,Centro-Oeste,MT,Rondonópolis,82
+576,Nordeste,PE,Cabrobó,2
+577,Sul,RS,Sarandi,24
+578,Sul,PR,Santo Antônio da Platina,8
+579,Sudeste,SP,Tatuí,31
+580,Sudeste,MG,Lagoa Santa,62
+581,Sul,SC,Morro da Fumaça,3
+582,Sudeste,MG,Matipó,2
+583,Sudeste,SP,Valentim Gentil,5
+584,Norte,TO,Monte do Carmo,2
+585,Nordeste,BA,Entre Rios,9
+586,Sudeste,ES,Cariacica,73
+587,Sudeste,MG,São João da Ponte,1
+588,Sul,SC,Canoinhas,34
+589,Sudeste,SP,Serrana,16
+590,Sudeste,MG,Curvelo,39
+591,Sudeste,SP,Matão,39
+592,Sul,RS,Anta Gorda,3
+593,Nordeste,SE,Estância,9
+594,Norte,PA,Juruti,8
+595,Nordeste,CE,Mauriti,5
+596,Sul,PR,Campo Magro,7
+597,Sul,SC,São José,159
+598,Sudeste,SP,Ubatuba,67
+599,Sudeste,RJ,Paraty,28
+600,Sul,PR,Umuarama,53
+601,Sudeste,SP,Itapetininga,44
+602,Sul,RS,Rolante,7
+603,Nordeste,PE,São José do Egito,2
+604,Sudeste,MG,Ituiutaba,21
+605,Nordeste,PB,Pitimbu,1
+606,Sul,RS,Três Passos,3
+607,Sudeste,ES,São Mateus,39
+608,Nordeste,BA,Candeias,14
+609,Centro-Oeste,GO,Alto Paraíso de Goiás,2
+610,Sudeste,SP,Brotas,12
+611,Sudeste,ES,Castelo,10
+612,Nordeste,BA,Santa Maria da Vitória,4
+613,Sul,RS,Barão,1
+614,Nordeste,PE,São Lourenço da Mata,15
+615,Sul,SC,Porto Belo,16
+616,Nordeste,AL,Craíbas,2
+617,Sudeste,MG,Governador Valadares,80
+618,Nordeste,BA,Praia do Forte,3
+619,Norte,PA,Ourilândia do Norte,8
+620,Sudeste,SP,Cubatão,42
+621,Sul,RS,Giruá,6
+622,Nordeste,RN,Caicó,26
+623,Nordeste,CE,Madalena,3
+624,Norte,PA,Tucumã,7
+625,Sul,RS,Portão,9
+626,Centro-Oeste,GO,Goiatuba,7
+627,Sudeste,SP,Ourinhos,40
+628,Sul,RS,Vanini,3
+629,Nordeste,RN,São Paulo do Potengi,3
+630,Nordeste,MA,Coelho Neto,1
+631,Sudeste,ES,Aracê,2
+632,Sul,RS,Osório,33
+633,Sudeste,ES,Guarapari,45
+634,Sul,SC,Penha,15
+635,Sudeste,MG,Itanhandu,3
+636,Sul,RS,Capela de Santana,5
+637,Nordeste,PB,Itaporanga,2
+638,Sul,PR,Colombo,68
+639,Sudeste,MG,Araguari,42
+640,Sudeste,MG,Cataguases,30
+641,Sudeste,SP,Guaratinguetá,78
+642,Sul,PR,São João do Ivaí,3
+643,Sudeste,SP,São Sebastião,39
+644,Nordeste,BA,Cruz das Almas,14
+645,Nordeste,RN,Maxaranguape,3
+646,Sudeste,SP,Apiaí,5
+647,Sudeste,MG,Araxá,35
+648,Nordeste,MA,Lago Verde,1
+649,Sudeste,MG,Florestal,3
+650,Sudeste,SP,Bonfim Paulista,14
+651,Nordeste,BA,Caravelas,5
+652,Nordeste,BA,Mucuri,4
+653,Centro-Oeste,MT,Lucas do Rio Verde,38
+654,Sudeste,MG,Barbacena,45
+655,Norte,RO,Ji-Paraná,42
+656,Sul,PR,Pitanga,6
+657,Centro-Oeste,MT,Alta Floresta,19
+658,Sudeste,MG,Vespasiano,21
+659,Nordeste,PI,Parnaíba,31
+660,Sul,SC,Imbituba,19
+661,Sul,RS,São Lourenço do Sul,6
+662,Sudeste,SP,Quintana,4
+663,Sul,PR,Missal,3
+664,Sul,RS,Lajeado,31
+665,Sudeste,MG,Ubá,24
+666,Centro-Oeste,MT,Cáceres,24
+667,Sul,SC,Santa Terezinha,3
+668,Sudeste,MG,Ribeirão das Neves,36
+669,Sul,SC,Navegantes,42
+670,Sudeste,MG,Carmo do Cajuru,5
+671,Sudeste,MG,Santa Rita do Sapucaí,20
+672,Sul,PR,Matelândia,6
+673,Sudeste,MG,Sabará,41
+674,Nordeste,BA,Arembepe,4
+675,Nordeste,CE,Sobral,34
+676,Sudeste,SP,Jaú,31
+677,Nordeste,PB,Patos,16
+678,Sul,PR,Centenário do Sul,2
+679,Sudeste,MG,Juatuba,9
+680,Nordeste,BA,Itaberaba,14
+681,Centro-Oeste,MT,Vila Bela da Santíssima Trinda,3
+682,Sul,RS,Santo Ângelo,25
+683,Sudeste,MG,Conceição do Mato Dentro,10
+684,Nordeste,BA,Juazeiro,38
+685,Centro-Oeste,GO,Nerópolis,8
+686,Sudeste,SP,Tarumã,9
+687,Nordeste,PE,Tacaratu,2
+688,Nordeste,BA,Jacobina,19
+689,Sul,RS,Três Cachoeiras,9
+690,Sudeste,MG,Cordisburgo,3
+691,Nordeste,BA,Miguel Calmon,1
+692,Nordeste,PE,Agrestina,5
+693,Nordeste,BA,Camamu,4
+694,Sul,SC,Araranguá,25
+695,Sudeste,MG,Tapira,2
+696,Sudeste,SP,Sales Oliveira,3
+697,Sudeste,ES,Marataízes,9
+698,Nordeste,BA,Paramirim,4
+699,Centro-Oeste,MT,Novo Diamantino,1
+700,Sudeste,RJ,Cachoeiras de Macacu,10
+701,Sul,PR,Castro,14
+702,Sudeste,SP,Mairiporã,32
+703,Sul,SC,Lontras,5
+704,Nordeste,BA,Valença,37
+705,Sul,RS,Garibaldi,12
+706,Sudeste,MG,Caratinga,22
+707,Sudeste,MG,Três Pontas,22
+708,Sudeste,SP,Mogi Mirim,60
+709,Sudeste,MG,Caeté,20
+710,Sudeste,SP,Gavião Peixoto,1
+711,Nordeste,RN,Lajes,1
+712,Sudeste,SP,Várzea Paulista,29
+713,Sudeste,MG,Lagoa Formosa,2
+714,Sudeste,MG,Coronel Fabriciano,18
+715,Centro-Oeste,MT,Campos de Júlio,4
+716,Sul,PR,São João,2
+717,Nordeste,SE,Barra dos Coqueiros,15
+718,Sudeste,SP,Santa Branca,5
+719,Sudeste,SP,Registro,22
+720,Sul,RS,Sapucaia do Sul,36
+721,Centro-Oeste,GO,Pontalina,7
+722,Sudeste,SP,Guaiçara,3
+723,Sudeste,SP,Piedade,10
+724,Nordeste,RN,Acari,4
+725,Sul,PR,Imbituva,4
+726,Sudeste,MG,Inhapim,3
+727,Sul,SC,Campos Novos,11
+728,Centro-Oeste,GO,Goianira,10
+729,Nordeste,BA,Santa Cruz Cabrália,7
+730,Sudeste,ES,Muniz Freire,4
+731,Sudeste,RJ,Porto Real,9
+732,Sul,RS,Agudo,1
+733,Centro-Oeste,MS,Rio Brilhante,14
+734,Norte,TO,Colinas do Tocantins,3
+735,Sudeste,SP,Presidente Alves,2
+736,Sudeste,MG,Passos,36
+737,Norte,PA,Redenção,18
+738,Sul,RS,Guaíba,34
+739,Sudeste,MG,Cachoeira do Campo,3
+740,Sudeste,RJ,Miguel Pereira,18
+741,Sul,SC,São Miguel do Oeste,27
+742,Sudeste,MG,Ponte Nova,21
+743,Nordeste,BA,Coaraci,1
+744,Nordeste,CE,Acaraú,4
+745,Sudeste,SP,Chavantes,5
+746,Sudeste,SP,Fernandópolis,37
+747,Sul,RS,Pinheiro Machado,3
+748,Nordeste,RN,Upanema,1
+749,Sul,SC,Grão Pará,2
+750,Nordeste,PI,Campo Maior,2
+751,Sul,RS,Piratini,3
+752,Sul,PR,Colônia Castrolânda,2
+753,Sul,SC,Xanxerê,11
+754,Sul,RS,Uruguaiana,25
+755,Sudeste,MG,Poço Fundo,6
+756,Sul,SC,Turvo,3
+757,Sudeste,MG,Tarumirim,7
+758,Norte,RO,Nova Mamoré,3
+759,Sudeste,SP,Rio Grande da Serra,10
+760,Sudeste,RJ,Japeri,15
+761,Sudeste,SP,Presidente Venceslau,12
+762,Sudeste,MG,Camanducaia,6
+763,Sul,PR,Itaguajé,1
+764,Sudeste,ES,Cachoeiro de Itapemirim,46
+765,Sudeste,RJ,Armação dos Búzios,35
+766,Nordeste,PE,Serra Talhada,14
+767,Sul,PR,Corbélia,4
+768,Sul,RS,Veranópolis,8
+769,Nordeste,CE,São Gonçalo do Amarante,20
+770,Sudeste,SP,Mirassol,24
+771,Sudeste,SP,Buritizal,1
+772,Nordeste,CE,Aracati,19
+773,Sul,PR,Colorado,12
+774,Sul,RS,Campo Bom,34
+775,Sudeste,MG,Muzambinho,5
+776,Sul,SC,Itapoá,11
+777,Sudeste,SP,Biritiba-Mirim,11
+778,Sul,SC,Içara,23
+779,Sudeste,SP,Artur Nogueira,20
+780,Sul,RS,Marcelino Ramos,4
+781,Sudeste,SP,São Sebastião da Grama,4
+782,Centro-Oeste,MS,Costa Rica,12
+783,Sul,SC,Itá,9
+784,Norte,TO,Figueirópolis,2
+785,Sul,PR,Cafelândia,6
+786,Sul,RS,Casca,3
+787,Norte,TO,Araguaína,47
+788,Sudeste,SP,Poá,50
+789,Sudeste,SP,Dois Córregos,12
+790,Sudeste,MG,Lavras,68
+791,Sul,RS,Canguçu,7
+792,Sudeste,SP,Taquarituba,5
+793,Centro-Oeste,GO,Itaberaí,5
+794,Sudeste,SP,Porto Feliz,27
+795,Norte,PA,Tailândia,5
+796,Nordeste,BA,Castro Alves,4
+797,Nordeste,BA,Rodelas,1
+798,Sudeste,SP,Ibiúna,14
+799,Sul,PR,Rio Branco do Sul,5
+800,Nordeste,BA,Una,5
+801,Sudeste,SP,Louveira,24
+802,Nordeste,BA,Remanso,5
+803,Sul,PR,Sengés,4
+804,Centro-Oeste,GO,Panamá,1
+805,Sudeste,SP,Sertãozinho,41
+806,Sudeste,SP,Carapicuíba,129
+807,Sudeste,SP,Roseira,1
+808,Centro-Oeste,GO,Aruanã,2
+809,Sudeste,ES,Barra de São Francisco,9
+810,Sudeste,MG,Ouro Branco,17
+811,Sudeste,MG,Carmo de Minas,2
+812,Centro-Oeste,MT,Itanhangá,1
+813,Sudeste,SP,Palmeira D'Oeste,1
+814,Sul,PR,Andirá,6
+815,Centro-Oeste,MT,Vila Rica,7
+816,Sul,RS,Glorinha,1
+817,Sul,PR,Cianorte,28
+818,Sudeste,SP,Miracatu,2
+819,Nordeste,CE,Crateús,4
+820,Centro-Oeste,MS,Amambaí,12
+821,Sudeste,MG,Salinas,6
+822,Sudeste,SP,Tremembé,18
+823,Centro-Oeste,MT,Brasnorte,3
+824,Nordeste,CE,Bela Cruz,3
+825,Sudeste,SP,Paraibuna,9
+826,Centro-Oeste,MS,Aparecida do Taboado,7
+827,Sul,PR,Querência do Norte,2
+828,Sudeste,MG,Guimarânia,6
+829,Sudeste,SP,Andradina,13
+830,Nordeste,PI,São Raimundo Nonato,3
+831,Nordeste,PB,Lagoa Seca,3
+832,Centro-Oeste,GO,Damianópolis,1
+833,Sul,RS,Rodeio Bonito,4
+834,Sudeste,SP,Araçariguama,7
+835,Sudeste,SP,Fartura,6
+836,Nordeste,BA,Jaguaquara,3
+837,Nordeste,PE,Nazaré da Mata,6
+838,Norte,AM,Borba,1
+839,Nordeste,BA,Itabuna,51
+840,Sudeste,MG,Capelinha,8
+841,Nordeste,BA,Alagoinhas,44
+842,Sudeste,MG,Belo Vale,3
+843,Sudeste,SP,Salesópolis,5
+844,Sudeste,SP,Votorantim,51
+845,Sudeste,MG,Cláudio,11
+846,Nordeste,SE,Frei Paulo,1
+847,Sul,SC,Antônio Carlos,4
+848,Sudeste,MG,Dores do Turvo,3
+849,Nordeste,BA,Manoel Vitorino,1
+850,Sudeste,SP,Panorama,3
+851,Nordeste,CE,Quixadá,14
+852,Sudeste,MG,Itaúna,27
+853,Sudeste,MG,Cambuquira,6
+854,Sudeste,RJ,Arraial do Cabo,21
+855,Sudeste,SP,Bálsamo,2
+856,Sudeste,MG,Congonhas,24
+857,Nordeste,AL,São Luís do Quitunde,2
+858,Nordeste,AL,Marechal Deodoro,17
+859,Sudeste,MG,Lagoa da Prata,7
+860,Nordeste,SE,Pedrinhas,1
+861,Sul,SC,Herval D'Oeste,3
+862,Sudeste,MG,Machado,13
+863,Sul,RS,Rosário do Sul,6
+864,Sul,SC,Jaraguá do Sul,84
+865,Centro-Oeste,MS,Ponta Porã,37
+866,Sudeste,RJ,Paraíba do Sul,9
+867,Nordeste,CE,Capistrano,5
+868,Sudeste,MG,Oliveira,19
+869,Sul,PR,Rio Azul,1
+870,Sudeste,SP,Ibitinga,8
+871,Sudeste,MG,Pimenta,3
+872,Sudeste,MG,Pains,2
+873,Sudeste,SP,Santa Isabel,16
+874,Sudeste,MG,Manhumirim,2
+875,Sul,RS,Guaporé,7
+876,Sul,PR,Primeiro de Maio,3
+877,Sudeste,RJ,Silva Jardim,2
+878,Sudeste,RJ,São José do Vale do Rio Preto,5
+879,Sudeste,SP,Cerquilho,15
+880,Nordeste,BA,Catu,10
+881,Nordeste,SE,Maruim,2
+882,Sul,PR,Lapa,11
+883,Sudeste,SP,Piracaia,12
+884,Norte,TO,Araguaçu,2
+885,Centro-Oeste,MT,Confresa,6
+886,Sul,RS,Não-Me-Toque,6
+887,Sudeste,MG,São José da Lapa,6
+888,Centro-Oeste,MS,Naviraí,10
+889,Sudeste,SP,Ipaussu,4
+890,Nordeste,BA,João Dourado,3
+891,Sul,RS,Arroio do Meio,2
+892,Sudeste,MG,Bom Despacho,18
+893,Nordeste,CE,Juritianha,2
+894,Centro-Oeste,MS,Itaporã,5
+895,Nordeste,AL,Pilar,5
+896,Norte,PA,Pacajá,3
+897,Norte,PA,Medicilândia,1
+898,Sudeste,MG,Rio Paranaíba,3
+899,Nordeste,BA,Itamaraju,4
+900,Sudeste,ES,Rio Novo do Sul,1
+901,Centro-Oeste,MT,Nobres,2
+902,Nordeste,BA,Cansanção,3
+903,Nordeste,CE,Limoeiro do Norte,8
+904,Norte,PA,Castanhal,31
+905,Sudeste,ES,Guaçuí,2
+906,Sudeste,MG,Patrocínio,25
+907,Nordeste,CE,São Luís do Curu,3
+908,Nordeste,PE,Bezerros,5
+909,Nordeste,BA,Ichu,1
+910,Norte,TO,Palmeirópolis,3
+911,Nordeste,BA,Filadélfia,1
+912,Sul,RS,Estância Velha,19
+913,Sudeste,MG,Caxambu,9
+914,Sul,RS,Palmitinho,2
+915,Sudeste,SP,Palestina,2
+916,Nordeste,MA,São Luís Gonzaga do Maranhão,1
+917,Nordeste,AL,Girau do Ponciano,2
+918,Sudeste,MG,Santa Bárbara,8
+919,Sudeste,SP,Iracemápolis,9
+920,Norte,PA,Oriximiná,1
+921,Sudeste,MG,Santa Bárbara do Leste,1
+922,Nordeste,PE,Floresta,5
+923,Nordeste,CE,Jaibaras,1
+924,Centro-Oeste,MS,Nova Alvorada do Sul,8
+925,Centro-Oeste,MT,Nova Xavantina,8
+926,Sudeste,MG,Itabirito,25
+927,Nordeste,BA,Eunápolis,57
+928,Sudeste,MG,São Gonçalo do Abaeté,3
+929,Norte,RO,Ariquemes,26
+930,Centro-Oeste,GO,Trindade,20
+931,Nordeste,MA,São José de Ribamar,12
+932,Nordeste,BA,Jequié,23
+933,Sudeste,SP,Cananéia,3
+934,Nordeste,BA,Santo Amaro,6
+935,Sudeste,MG,Mantena,3
+936,Sul,SC,Fraiburgo,7
+937,Sul,RS,Santiago,7
+938,Sudeste,SP,Angatuba,5
+939,Sudeste,SP,São Miguel Arcanjo,3
+940,Sul,RS,Nova Petrópolis,10
+941,Sudeste,SP,Laranjal Paulista,4
+942,Sul,RS,São Sepé,10
+943,Sul,RS,Nova Roma do Sul,1
+944,Sudeste,SP,Tapiraí,2
+945,Sul,SC,Painel,2
+946,Sul,SC,Presidente Getúlio,3
+947,Sul,PR,Bandeirantes,9
+948,Sul,RS,Ibirubá,3
+949,Centro-Oeste,GO,Senador Canedo,16
+950,Sudeste,MG,Itapagipe,2
+951,Sudeste,MG,Ijaci,2
+952,Sudeste,ES,Anchieta,10
+953,Sul,RS,São Francisco de Paula,3
+954,Sul,SC,Pomerode,14
+955,Norte,AC,Brasiléia,2
+956,Sul,SC,Araquari,2
+957,Centro-Oeste,MS,Deodápolis,7
+958,Sudeste,MG,Morada Nova de Minas,2
+959,Sudeste,SP,Guapiara,1
+960,Centro-Oeste,GO,Edéia,7
+961,Sul,PR,Quatro Barras,12
+962,Nordeste,SE,Japoatã,2
+963,Nordeste,CE,Itapipoca,9
+964,Sul,PR,Marmeleiro,2
+965,Sul,SC,Sombrio,5
+966,Sul,SC,Atalanta,4
+967,Sul,RS,Três de Maio,8
+968,Sudeste,ES,Venda Nova do Imigrante,5
+969,Centro-Oeste,MT,Campo Verde,10
+970,Centro-Oeste,MT,União do Sul,1
+971,Sul,SC,Rio do Campo,1
+972,Sul,PR,Fazenda Rio Grande,20
+973,Centro-Oeste,GO,Quirinópolis,11
+974,Sudeste,MG,São Gotardo,6
+975,Sul,SC,Palmitos,3
+976,Sul,SC,Itaiópolis,2
+977,Nordeste,SE,Arauá,2
+978,Sul,PR,Santa Terezinha de Itaipu,6
+979,Sudeste,MG,Pedro Leopoldo,30
+980,Sul,RS,Xangri-Lá,3
+981,Nordeste,BA,Vera Cruz,19
+982,Sudeste,SP,Nova Independência,1
+983,Sudeste,SP,Águas de Santa Bárbara,3
+984,Nordeste,AL,Rio Largo,12
+985,Sul,RS,Floriano Peixoto,1
+986,Sul,RS,Montenegro,12
+987,Sudeste,MG,Santana de Patos,1
+988,Sudeste,SP,Engenheiro Coelho,6
+989,Nordeste,PE,São José do Belmonte,4
+990,Nordeste,MA,Caxias,12
+991,Nordeste,MA,Bequimão,1
+992,Nordeste,CE,Aracoiaba,3
+993,Sudeste,SP,Rosana,5
+994,Nordeste,BA,Bom Jesus da Lapa,9
+995,Centro-Oeste,MS,Maracaju,14
+996,Norte,TO,Porto Nacional,7
+997,Sudeste,SP,Arujá,35
+998,Sudeste,SP,Lagoa Branca,2
+999,Sudeste,MG,Muriaé,25
+1000,Sudeste,MG,Goiabeira,1
+1001,Sudeste,SP,Santo Anastácio,9
+1002,Sudeste,RJ,Santo Amaro de Campos,2
+1003,Centro-Oeste,MT,Reserva do Cabaçal,2
+1004,Norte,TO,Araguatins,1
+1005,Sudeste,SP,Ituverava,10
+1006,Sudeste,MG,Além Paraíba,4
+1007,Sul,RS,Dom Pedrito,17
+1008,Centro-Oeste,GO,Aragoiânia,5
+1009,Centro-Oeste,MS,Ivinhema,12
+1010,Nordeste,BA,Madre de Deus,3
+1011,Nordeste,MA,Codó,2
+1012,Sudeste,MG,Itanhomi,4
+1013,Nordeste,SE,Capela,2
+1014,Sudeste,MG,Alpercata,1
+1015,Nordeste,PB,Conceição,1
+1016,Nordeste,RN,Touros,2
+1017,Nordeste,PE,Gravatá,11
+1018,Nordeste,BA,Ubaíra,3
+1019,Nordeste,MA,Alto Parnaíba,1
+1020,Nordeste,CE,Pacatuba,5
+1021,Sudeste,MG,Carangola,8
+1022,Centro-Oeste,GO,Orizona,6
+1023,Sul,RS,Capivari do Sul,6
+1024,Sudeste,MG,São Bento Abade,1
+1025,Centro-Oeste,MS,Nova Andradina,17
+1026,Nordeste,CE,Baturité,4
+1027,Nordeste,BA,Santana,15
+1028,Sul,SC,Rio Negrinho,22
+1029,Sudeste,SP,Osvaldo Cruz,2
+1030,Sudeste,MG,Palmópolis,1
+1031,Sul,SC,Sangão,5
+1032,Nordeste,BA,Morro do Chapéu,3
+1033,Sudeste,MG,Januária,5
+1034,Sul,PR,Campina da Lagoa,7
+1035,Sul,PR,Goioerê,8
+1036,Norte,PA,Tucuruí,11
+1037,Centro-Oeste,MT,Gaúcha do Norte,3
+1038,Sudeste,MG,São Sebastião do Anta,4
+1039,Centro-Oeste,MS,Caarapó,8
+1040,Sul,PR,Francisco Beltrão,24
+1041,Nordeste,PI,Floriano,3
+1042,Sudeste,SP,Itatiba,89
+1043,Sudeste,SP,Espírito Santo do Pinhal,17
+1044,Sudeste,MG,Pirapora,16
+1045,Centro-Oeste,GO,Palmeiras de Goiás,13
+1046,Sul,SC,Gaspar,21
+1047,Sudeste,MG,Novo Cruzeiro,10
+1048,Sul,RS,Eldorado do Sul,14
+1049,Sul,RS,Tiradentes do Sul,2
+1050,Nordeste,RN,São Rafael,3
+1051,Centro-Oeste,GO,Cocalzinho de Goiás,3
+1052,Sudeste,SP,Buri,10
+1053,Sul,PR,Dois Vizinhos,15
+1054,Sudeste,SP,Herculândia,3
+1055,Norte,RO,São Francisco do Guaporé,1
+1056,Nordeste,PI,Dom Expedito Lopes,1
+1057,Sudeste,MG,Paraopeba,11
+1058,Centro-Oeste,GO,Santo Antônio de Goiás,4
+1059,Sudeste,MG,Bom Jardim de Minas,4
+1060,Nordeste,BA,Amélia Rodrigues,2
+1061,Sudeste,MG,Guapé,1
+1062,Nordeste,BA,Iguaí,1
+1063,Nordeste,PE,Joaquim Nabuco,1
+1064,Nordeste,BA,Conceição do Coité,7
+1065,Sudeste,SP,Auriflama,3
+1066,Sul,SC,Saudades,6
+1067,Sul,SC,São João do Itaperiú,1
+1068,Sul,PR,Realeza,8
+1069,Sudeste,SP,Ouroeste,3
+1070,Centro-Oeste,GO,Bom Jardim de Goiás,1
+1071,Sudeste,SP,Barrinha,5
+1072,Sudeste,SP,Cedral,1
+1073,Sudeste,MG,Belo Oriente,2
+1074,Sudeste,SP,Suzanápolis,2
+1075,Sul,PR,Califórnia,2
+1076,Sudeste,SP,São Pedro,9
+1077,Nordeste,PE,Paranatama,1
+1078,Nordeste,PE,Escada,6
+1079,Sudeste,SP,Itaberá,2
+1080,Nordeste,CE,Pacajus,10
+1081,Sul,RS,Itatiba do Sul,1
+1082,Sudeste,MG,Jaíba,5
+1083,Nordeste,MA,Bacabal,16
+1084,Centro-Oeste,GO,Santa Bárbara de Goiás,1
+1085,Nordeste,PE,Cedro,3
+1086,Sul,PR,Guairaçá,2
+1087,Sudeste,ES,João Neiva,5
+1088,Sudeste,ES,Ecoporanga,2
+1089,Centro-Oeste,GO,Campo Alegre de Goiás,3
+1090,Sudeste,SP,Boituva,32
+1091,Sudeste,SP,Pitangueiras,3
+1092,Centro-Oeste,GO,Planaltina,10
+1093,Sudeste,ES,Rio Bananal,7
+1094,Nordeste,MA,Barreirinhas,2
+1095,Sul,SC,Urubici,4
+1096,Sudeste,MG,Corinto,3
+1097,Sudeste,SP,Cajati,16
+1098,Sudeste,MG,Frutal,13
+1099,Sudeste,RJ,Araruama,36
+1100,Nordeste,BA,Maragogipe,1
+1101,Centro-Oeste,GO,Crixás,7
+1102,Sudeste,MG,Buritizeiro,2
+1103,Sudeste,MG,Santo Antônio da Boa Vista,1
+1104,Nordeste,PE,Garanhuns,23
+1105,Nordeste,PI,Amarante,1
+1106,Nordeste,SE,São Cristóvão,19
+1107,Centro-Oeste,MS,Inocência,4
+1108,Nordeste,PB,Serra Redonda,1
+1109,Sudeste,SP,Álvares Machado,10
+1110,Sudeste,MG,Alto Caparaó,4
+1111,Sudeste,SP,Catanduva,38
+1112,Sul,SC,Jacinto Machado,3
+1113,Sudeste,MG,Felixlândia,3
+1114,Sudeste,SP,Jaguariúna,28
+1115,Sul,PR,Paiçandu,6
+1116,Nordeste,SE,Boquim,6
+1117,Sul,RS,Tupanciretã,5
+1118,Norte,AM,Humaitá,14
+1119,Sudeste,SP,Queluz,5
+1120,Sudeste,SP,Santa Cruz do Rio Pardo,8
+1121,Nordeste,BA,Jaguarari,3
+1122,Sudeste,MG,Bonfinópolis de Minas,2
+1123,Sudeste,MG,Inconfidentes,4
+1124,Nordeste,RN,Currais Novos,5
+1125,Sudeste,RJ,Santa Maria Madalena,2
+1126,Sudeste,MG,Mateus Leme,5
+1127,Nordeste,BA,Arraial D'Ajuda,8
+1128,Nordeste,BA,Curaçá,3
+1129,Nordeste,CE,Aquiraz,17
+1130,Sul,RS,Torres,31
+1131,Norte,RO,Guajará-Mirim,2
+1132,Nordeste,MA,São Domingos do Maranhão,1
+1133,Sudeste,RJ,Conceição de Macabu,4
+1134,Sudeste,MG,Jeceaba,3
+1135,Nordeste,BA,Macaúbas,4
+1136,Sul,SC,Curitibanos,12
+1137,Sudeste,SP,Itaí,5
+1138,Sudeste,MG,Elói Mendes,4
+1139,Sudeste,SP,Aparecida,9
+1140,Sul,SC,Jaguaruna,7
+1141,Nordeste,CE,Assaré,2
+1142,Nordeste,CE,Iracema,1
+1143,Centro-Oeste,GO,Silvânia,7
+1144,Nordeste,BA,Luís Eduardo Magalhães,38
+1145,Sul,SC,Alfredo Wagner,3
+1146,Nordeste,PE,Terezinha,1
+1147,Sudeste,RJ,Porciúncula,5
+1148,Sul,RS,Bom Princípio,4
+1149,Sul,SC,Caçador,22
+1150,Sudeste,SP,Ferraz de Vasconcelos,31
+1151,Sudeste,MG,Capim Branco,2
+1152,Nordeste,CE,Chaval,1
+1153,Sudeste,ES,Marechal Floriano,6
+1154,Sudeste,MG,Monte Sião,3
+1155,Centro-Oeste,MS,Selvíria,1
+1156,Sul,SC,Cunha Porã,3
+1157,Sudeste,RJ,São Fidélis,7
+1158,Sudeste,SP,Orlândia,8
+1159,Sudeste,MG,João Pinheiro,8
+1160,Sudeste,MG,Mato Verde,1
+1161,Nordeste,CE,Barbalha,5
+1162,Norte,PA,São Félix do Xingu,5
+1163,Sul,SC,Pinhalzinho,17
+1164,Sul,PR,Jandaia do Sul,4
+1165,Nordeste,AL,União dos Palmares,2
+1166,Sudeste,RJ,Itaocara,4
+1167,Sudeste,MG,Santana de Cataguases,1
+1168,Sudeste,ES,Ibatiba,2
+1169,Nordeste,PB,Bayeux,12
+1170,Nordeste,BA,Nova Soure,4
+1171,Sudeste,SP,Araçoiaba da Serra,14
+1172,Sul,SC,Treze Tílias,1
+1173,Nordeste,PI,Pedro II,2
+1174,Sul,SC,Barra Velha,11
+1175,Norte,TO,Pedro Afonso,6
+1176,Sudeste,SP,Uchoa,2
+1177,Sudeste,MG,Delfim Moreira,1
+1178,Nordeste,CE,Marco,3
+1179,Norte,AM,Tabatinga,7
+1180,Sudeste,MG,Padre Paraíso,8
+1181,Sudeste,SP,Elias Fausto,7
+1182,Sudeste,RJ,Goitacazes,3
+1183,Sudeste,MG,Santa Juliana,6
+1184,Nordeste,SE,Itabaiana,22
+1185,Sudeste,SP,Cesário Lange,6
+1186,Sul,SC,Santo Amaro da Imperatriz,11
+1187,Nordeste,BA,Iaçu,3
+1188,Sul,RS,Frederico Westphalen,16
+1189,Sul,SC,São Francisco do Sul,31
+1190,Nordeste,BA,Cotegipe,1
+1191,Sudeste,MG,Teixeiras,6
+1192,Norte,PA,São Miguel do Guamá,1
+1193,Nordeste,AL,Junqueiro,2
+1194,Sudeste,MG,Ervália,1
+1195,Sudeste,MG,Monte Santo de Minas,4
+1196,Centro-Oeste,MS,Sonora,3
+1197,Centro-Oeste,MT,Canabrava do Norte,1
+1198,Sudeste,MG,Campo Belo,12
+1199,Nordeste,PE,Barreiros,3
+1200,Centro-Oeste,GO,Cabeceiras,2
+1201,Sul,PR,Coronel Vivida,5
+1202,Sudeste,MG,Vazante,19
+1203,Sul,SC,Braço do Norte,6
+1204,Sudeste,ES,Viana,8
+1205,Nordeste,BA,Ubaitaba,1
+1206,Sul,RS,Santa Bárbara do Sul,2
+1207,Centro-Oeste,GO,Goiás,3
+1208,Sul,SC,Laurentino,6
+1209,Sudeste,MG,Iturama,10
+1210,Sudeste,MG,Piumhi,19
+1211,Sudeste,MG,Baependi,6
+1212,Nordeste,MA,Rosário,5
+1213,Sudeste,MG,Nova Serrana,13
+1214,Centro-Oeste,MS,Aral Moreira,1
+1215,Sudeste,MG,Pirajuba,2
+1216,Centro-Oeste,GO,Iporá,19
+1217,Sudeste,RJ,Piabetá,1
+1218,Centro-Oeste,MT,Querência,5
+1219,Centro-Oeste,GO,Araguapaz,3
+1220,Norte,PA,Marituba,8
+1221,Nordeste,AL,Palmeira dos Índios,5
+1222,Sudeste,SP,Tietê,18
+1223,Sudeste,SP,Pradópolis,5
+1224,Nordeste,BA,Crisópolis,1
+1225,Sudeste,RJ,Pinheiral,5
+1226,Nordeste,AL,Igreja Nova,2
+1227,Nordeste,PI,Piripiri,4
+1228,Sudeste,SP,Holambra,18
+1229,Nordeste,PB,Mamanguape,4
+1230,Nordeste,BA,Barrocas,2
+1231,Nordeste,BA,Ipiaú,6
+1232,Nordeste,AL,Teotônio Vilela,2
+1233,Nordeste,BA,Santo Estêvão,10
+1234,Sudeste,SP,Mairinque,29
+1235,Sul,PR,Nova Esperança,5
+1236,Nordeste,PE,Arcoverde,9
+1237,Sul,RS,Serafina Corrêa,3
+1238,Sul,SC,Guaramirim,9
+1239,Nordeste,PE,Cupira,3
+1240,Nordeste,BA,Trancoso,3
+1241,Nordeste,RN,Serra Caiada,1
+1242,Centro-Oeste,MT,Nortelândia,1
+1243,Sul,RS,Vicente Dutra,2
+1244,Centro-Oeste,MT,Mirassol D'Oeste,13
+1245,Nordeste,BA,Palmeiras,3
+1246,Norte,AM,Manacapuru,9
+1247,Sul,RS,Horizontina,4
+1248,Norte,AP,Serra do Navio,1
+1249,Sudeste,MG,Itamarandiba,3
+1250,Nordeste,BA,Nova Brasília,1
+1251,Sudeste,SP,Jacupiranga,5
+1252,Nordeste,PB,Barra de São Miguel,1
+1253,Nordeste,BA,Piritiba,2
+1254,Nordeste,PB,Mari,3
+1255,Nordeste,MA,Pedreiras,8
+1256,Sul,SC,Siderópolis,4
+1257,Sudeste,MG,Andrelândia,2
+1258,Nordeste,BA,Iuiu,1
+1259,Centro-Oeste,MT,Canarana,10
+1260,Norte,RO,Alta Floresta D'Oeste,7
+1261,Centro-Oeste,MT,Barra do Garças,13
+1262,Norte,PA,Abaetetuba,2
+1263,Sudeste,MG,Aimorés,9
+1264,Sudeste,MG,Perdigão,1
+1265,Sudeste,RJ,Cordeiro,7
+1266,Sul,PR,Palmeira,12
+1267,Sudeste,ES,Alegre,27
+1268,Norte,PA,Capanema,4
+1269,Sudeste,MG,Porteirinha,4
+1270,Nordeste,BA,Cravolândia,3
+1271,Sul,PR,Warta,1
+1272,Sul,PR,Chopinzinho,7
+1273,Nordeste,AL,Batalha,2
+1274,Nordeste,PB,Uiraúna,2
+1275,Centro-Oeste,MS,Terenos,4
+1276,Sudeste,SP,Ilhabela,26
+1277,Sul,RS,Santana do Livramento,14
+1278,Centro-Oeste,GO,Pirenópolis,3
+1279,Sudeste,RJ,Paty do Alferes,5
+1280,Sul,PR,Adrianópolis,1
+1281,Sudeste,SP,Capela do Alto,5
+1282,Nordeste,CE,Tabuleiro do Norte,7
+1283,Nordeste,SE,Porto da Folha,4
+1284,Nordeste,CE,Itaiçaba,3
+1285,Sudeste,RJ,Casimiro de Abreu,8
+1286,Sudeste,SP,Monte Aprazível,10
+1287,Sudeste,SP,Palmares Paulista,3
+1288,Sul,SC,São Domingos,5
+1289,Nordeste,BA,Ipirá,3
+1290,Nordeste,BA,Uruçuca,5
+1291,Centro-Oeste,GO,Posse,7
+1292,Sul,SC,Dionísio Cerqueira,5
+1293,Sudeste,RJ,Vassouras,10
+1294,Sul,PR,Arapoti,7
+1295,Sudeste,MG,Perdizes,4
+1296,Nordeste,BA,Campo Formoso,8
+1297,Sul,RS,Araricá,1
+1298,Nordeste,RN,Açu,5
+1299,Sudeste,SP,Buritama,3
+1300,Sudeste,MG,Três Corações,29
+1301,Nordeste,PE,Igarassu,25
+1302,Sul,SC,Laguna,12
+1303,Sul,RS,Gramado,22
+1304,Sudeste,ES,Santa Maria de Jetibá,11
+1305,Sul,RS,Sertão Santana,1
+1306,Sudeste,MG,Pará de Minas,25
+1307,Sudeste,ES,Iúna,3
+1308,Sudeste,SP,Meridiano,3
+1309,Centro-Oeste,MT,Itiquira,1
+1310,Sudeste,MG,Guanhães,10
+1311,Sudeste,MG,São João Evangelista,2
+1312,Nordeste,CE,Pecém,1
+1313,Sul,PR,Candói,3
+1314,Sudeste,MG,São Gonçalo do Rio Abaixo,8
+1315,Nordeste,PB,Queimadas,3
+1316,Norte,AP,Ferreira Gomes,2
+1317,Sudeste,MG,Montalvânia,2
+1318,Sul,RS,Santa Vitória do Palmar,17
+1319,Sudeste,MG,Arceburgo,2
+1320,Norte,AM,Boca do Acre,3
+1321,Sudeste,SP,Mongaguá,21
+1322,Sudeste,MG,Riachinho,2
+1323,Nordeste,BA,São Francisco do Conde,3
+1324,Norte,PA,Novo Repartimento,4
+1325,Norte,RO,Rolim de Moura,8
+1326,Sudeste,SP,Pereira Barreto,7
+1327,Sul,SC,Capinzal,5
+1328,Nordeste,PE,Lagoa do Ouro,1
+1329,Nordeste,CE,Viçosa do Ceará,4
+1330,Sul,SC,Quilombo,7
+1331,Sul,PR,Ibaiti,8
+1332,Centro-Oeste,GO,Novo Gama,13
+1333,Centro-Oeste,MT,Nova Marilândia,2
+1334,Nordeste,MA,Açailândia,11
+1335,Sudeste,SP,Tupi Paulista,4
+1336,Sudeste,SP,Taiaçu,2
+1337,Sul,PR,Bituruna,9
+1338,Sudeste,MG,Babilônia,1
+1339,Sul,RS,Camaquã,6
+1340,Sul,RS,Ronda Alta,4
+1341,Sul,PR,Santa Helena,6
+1342,Sul,RS,Getúlio Vargas,6
+1343,Centro-Oeste,GO,Morrinhos,9
+1344,Sudeste,SP,Arandu,3
+1345,Sudeste,MG,Roça Grande,1
+1346,Sudeste,SP,Pirapozinho,11
+1347,Centro-Oeste,MT,Juara,13
+1348,Sudeste,MG,Pratápolis,2
+1349,Norte,AC,Senador Guiomard,2
+1350,Centro-Oeste,MS,Ladário,4
+1351,Norte,PA,Barcarena,16
+1352,Nordeste,MA,Miranda do Norte,3
+1353,Nordeste,MA,Barra do Corda,4
+1354,Sul,PR,Itaperuçu,3
+1355,Nordeste,PE,São Vicente Ferrer,1
+1356,Sul,RS,Venâncio Aires,20
+1357,Sudeste,ES,Domingos Martins,9
+1358,Sul,PR,Braganey,2
+1359,Sul,RS,Ijuí,18
+1360,Sudeste,MG,Nazareno,2
+1361,Nordeste,AL,São José da Laje,4
+1362,Sudeste,MG,Sacramento,7
+1363,Nordeste,SE,Simão Dias,6
+1364,Sudeste,ES,Mucurici,1
+1365,Centro-Oeste,GO,Itauçu,6
+1366,Centro-Oeste,GO,Goianápolis,4
+1367,Centro-Oeste,GO,Santa Helena de Goiás,20
+1368,Sudeste,MG,Estrela do Sul,3
+1369,Sudeste,SP,Taguaí,1
+1370,Norte,PA,Óbidos,2
+1371,Nordeste,PI,Cajueiro da Praia,2
+1372,Norte,TO,Ananás,2
+1373,Centro-Oeste,MS,Bonito,9
+1374,Sul,RS,Capão da Canoa,21
+1375,Sudeste,RJ,Tanguá,3
+1376,Norte,AM,Presidente Figueiredo,5
+1377,Sudeste,MG,Cervo,1
+1378,Nordeste,BA,Ibiquera,1
+1379,Nordeste,PE,Abreu e Lima,10
+1380,Norte,PA,Ipixuna do Pará,2
+1381,Centro-Oeste,MT,Barra do Bugres,4
+1382,Sudeste,MG,Visconde do Rio Branco,9
+1383,Norte,PA,Brasil Novo,2
+1384,Nordeste,BA,Formosa do Rio Preto,3
+1385,Nordeste,PI,São João do Piauí,6
+1386,Norte,PA,Curuçá,1
+1387,Sul,PR,Leópolis,1
+1388,Sudeste,SP,General Salgado,4
+1389,Centro-Oeste,MS,São Gabriel do Oeste,4
+1390,Sudeste,MG,Santana do Jacaré,1
+1391,Nordeste,BA,Jaborandi,1
+1392,Sul,SC,São Cristóvão do Sul,1
+1393,Centro-Oeste,GO,Nova Veneza,3
+1394,Sudeste,SP,Maristela,1
+1395,Nordeste,AL,Boca da Mata,3
+1396,Sudeste,SP,Altinópolis,8
+1397,Sudeste,MG,Nanuque,7
+1398,Sudeste,MG,Águas Formosas,4
+1399,Nordeste,PE,Santo Agostinho,1
+1400,Sudeste,MG,Buritis,6
+1401,Sudeste,SP,Vargem,1
+1402,Sudeste,MG,Serro,2
+1403,Sudeste,SP,Monte Mor,10
+1404,Nordeste,BA,Itapetinga,17
+1405,Centro-Oeste,MT,Peixoto de Azevedo,3
+1406,Nordeste,BA,Santo Antônio de Jesus,28
+1407,Nordeste,SE,Nossa Senhora do Socorro,27
+1408,Sudeste,MG,Araporã,2
+1409,Nordeste,PB,Pedras de Fogo,2
+1410,Centro-Oeste,GO,Inhumas,9
+1411,Sul,RS,Cruz Alta,12
+1412,Sudeste,ES,Bom Jesus do Norte,5
+1413,Sul,SC,Gravatal,2
+1414,Nordeste,PE,Verdejante,1
+1415,Norte,PA,Monte Alegre,4
+1416,Sul,PR,Cambira,2
+1417,Sul,RS,Almirante Tamandaré do Sul,1
+1418,Centro-Oeste,GO,Alto Horizonte,2
+1419,Sudeste,MG,Janaúba,23
+1420,Nordeste,BA,Malhada,5
+1421,Nordeste,BA,Barra do Rocha,1
+1422,Sudeste,SP,Timburi,1
+1423,Norte,PA,Rondon do Pará,6
+1424,Nordeste,PB,Esperança,3
+1425,Sudeste,RJ,São Francisco de Itabapoana,3
+1426,Nordeste,PI,Jacobina do Piauí,1
+1427,Nordeste,PI,São José do Peixe,4
+1428,Nordeste,CE,Pindoretama,1
+1429,Centro-Oeste,MT,Jauru,5
+1430,Sudeste,RJ,Governador Portela,11
+1431,Sul,PR,Itaipulândia,6
+1432,Nordeste,MA,Chapadinha,2
+1433,Centro-Oeste,GO,Joviânia,5
+1434,Nordeste,SE,Tobias Barreto,4
+1435,Norte,TO,Talismã,1
+1436,Nordeste,BA,Riachão do Jacuípe,3
+1437,Nordeste,PB,Juru,1
+1438,Sudeste,MG,Ladainha,2
+1439,Nordeste,RN,Lagoa Nova,2
+1440,Sudeste,MG,Andradas,9
+1441,Sudeste,SP,Francisco Morato,22
+1442,Nordeste,SE,Siriri,1
+1443,Sul,SC,Maravilha,10
+1444,Nordeste,MA,Lago da Pedra,1
+1445,Sudeste,RJ,Mangaratiba,18
+1446,Nordeste,PB,Cajazeiras,6
+1447,Nordeste,PI,São Pedro do Piauí,1
+1448,Sudeste,SP,Pontal,1
+1449,Nordeste,BA,Itabela,3
+1450,Nordeste,SE,Macambira,1
+1451,Centro-Oeste,GO,São Simão,7
+1452,Nordeste,RN,Serra do Mel,1
+1453,Nordeste,BA,Rio de Contas,1
+1454,Centro-Oeste,MT,Alto Taquari,3
+1455,Sul,SC,Meleiro,4
+1456,Sudeste,SP,Tabapuã,4
+1457,Sul,PR,Nova Olímpia,3
+1458,Sudeste,MG,Itacarambi,2
+1459,Sudeste,MG,Carmo do Paranaíba,5
+1460,Nordeste,BA,Pindobaçu,2
+1461,Sudeste,SP,Indiaporã,1
+1462,Sudeste,SP,Viradouro,4
+1463,Nordeste,RN,Baraúna,2
+1464,Nordeste,CE,Itaitinga,3
+1465,Norte,PA,Monte Dourado,1
+1466,Sudeste,RJ,Quissamã,8
+1467,Nordeste,RN,São José de Mipibu,6
+1468,Nordeste,PB,Casserengue,1
+1469,Centro-Oeste,MT,Campinápolis,1
+1470,Nordeste,BA,Brejões,1
+1471,Nordeste,AL,Arapiraca,25
+1472,Sul,PR,Astorga,14
+1473,Sudeste,SP,Américo Brasiliense,5
+1474,Centro-Oeste,GO,Minaçu,2
+1475,Centro-Oeste,GO,Uruana,2
+1476,Nordeste,PB,São José da Mata,2
+1477,Sudeste,SP,Iperó,4
+1478,Sudeste,SP,Divinolândia,3
+1479,Sul,PR,Indianópolis,2
+1480,Centro-Oeste,GO,Águas Lindas de Goiás,15
+1481,Sudeste,MG,Ibirité,23
+1482,Centro-Oeste,MT,São Félix do Araguaia,3
+1483,Sul,SC,Guabiruba,8
+1484,Nordeste,RN,Taipu,3
+1485,Nordeste,BA,Xique-Xique,4
+1486,Sudeste,SP,Santa Rita do Passa Quatro,7
+1487,Norte,PA,Viseu,2
+1488,Sudeste,SP,Paraguaçu Paulista,17
+1489,Sudeste,SP,Itapira,14
+1490,Sudeste,SP,São Manuel,8
+1491,Sudeste,SP,Cunha,7
+1492,Centro-Oeste,GO,Montes Claros de Goiás,2
+1493,Nordeste,PI,Corrente,2
+1494,Sul,PR,Guaravera,1
+1495,Nordeste,PE,Calumbi,2
+1496,Sudeste,SP,Cajamar,36
+1497,Sudeste,SP,Jales,19
+1498,Norte,PA,Jacundá,2
+1499,Sul,RS,Estrela,7
+1500,Sudeste,MG,Senador José Bento,1
+1501,Sul,SC,Imaruí,3
+1502,Nordeste,CE,Brejo Santo,3
+1503,Nordeste,CE,Jaguaretama,2
+1504,Nordeste,CE,Icapuí,5
+1505,Sul,RS,Salvador do Sul,1
+1506,Sudeste,MG,Sarzedo,8
+1507,Norte,TO,Taipas do Tocantins,1
+1508,Nordeste,RN,Lagoa de Velhos,2
+1509,Sul,SC,Rio do Oeste,2
+1510,Sudeste,SP,Boa Esperança do Sul,1
+1511,Sul,RS,Cambará do Sul,1
+1512,Sudeste,MG,Capitólio,4
+1513,Sul,PR,Quitandinha,3
+1514,Nordeste,RN,Florânia,2
+1515,Centro-Oeste,GO,Ipameri,7
+1516,Norte,PA,Novo Progresso,4
+1517,Sudeste,SP,Cravinhos,16
+1518,Nordeste,BA,Brumado,11
+1519,Centro-Oeste,MT,Nova Monte Verde,2
+1520,Nordeste,CE,Guaraciaba do Norte,4
+1521,Sudeste,RJ,Guapimirim,15
+1522,Norte,PA,Bragança,5
+1523,Nordeste,BA,Caturama,1
+1524,Nordeste,RN,Major Sales,1
+1525,Sudeste,MG,Itaobim,4
+1526,Centro-Oeste,GO,Campinorte,6
+1527,Sudeste,MG,Alto Rio Doce,4
+1528,Sudeste,MG,Itatiaiuçu,5
+1529,Sudeste,SP,Ribeirão Branco,2
+1530,Nordeste,RN,João Câmara,5
+1531,Sudeste,MG,Tombos,3
+1532,Sul,RS,Augusto Pestana,1
+1533,Sul,PR,Floraí,2
+1534,Nordeste,BA,Serrinha,9
+1535,Sul,SC,Guatambú,2
+1536,Nordeste,PE,Paudalho,3
+1537,Nordeste,PE,Moreno,3
+1538,Nordeste,PI,Ilha Grande,2
+1539,Sul,SC,Serra Alta,1
+1540,Centro-Oeste,GO,Bonfinópolis,3
+1541,Nordeste,CE,Itapajé,4
+1542,Sul,PR,Ivatuba,3
+1543,Nordeste,CE,Parajuru,3
+1544,Nordeste,CE,Nova Olinda,2
+1545,Sul,RS,São Sebastião do Caí,6
+1546,Sul,SC,Ipumirim,1
+1547,Nordeste,BA,Condeúba,1
+1548,Sudeste,MG,Luz,4
+1549,Centro-Oeste,MS,Coxim,10
+1550,Sudeste,MG,Jequitinhonha,1
+1551,Sudeste,ES,Piúma,4
+1552,Sudeste,RJ,Itatiaia,11
+1553,Sudeste,RJ,Cambuci,2
+1554,Sudeste,RJ,Barra Mansa,35
+1555,Sudeste,MG,Itacambira,1
+1556,Sudeste,MG,Santo Antônio dos Campos,1
+1557,Sudeste,SP,Patrocínio Paulista,3
+1558,Nordeste,BA,Medeiros Neto,2
+1559,Nordeste,BA,Poções,3
+1560,Centro-Oeste,MS,Bela Vista,4
+1561,Norte,TO,São Miguel do Tocantins,1
+1562,Nordeste,BA,Itacaré,4
+1563,Sudeste,SP,Conchas,5
+1564,Sudeste,MG,Jacuí,1
+1565,Norte,PA,Alter do Chão,1
+1566,Sudeste,MG,Amarantina,1
+1567,Sudeste,MG,Turmalina,5
+1568,Sudeste,MG,Pai Pedro,1
+1569,Sudeste,SP,Jumirim,1
+1570,Sudeste,MG,Jacutinga,12
+1571,Nordeste,CE,Tururu,1
+1572,Sudeste,MG,Goianá,1
+1573,Sudeste,MG,Ibiá,7
+1574,Sudeste,SP,Macaubal,5
+1575,Sul,RS,Paim Filho,2
+1576,Nordeste,RN,Ipanguaçu,1
+1577,Sul,PR,Wenceslau Braz,5
+1578,Nordeste,SE,Lagarto,9
+1579,Sudeste,MG,Mário Campos,4
+1580,Sudeste,SP,Planalto,4
+1581,Nordeste,SE,Riachão do Dantas,1
+1582,Sudeste,SP,Jaci,1
+1583,Sudeste,MG,Raul Soares,2
+1584,Nordeste,PB,Sousa,4
+1585,Nordeste,PE,Camocim de São Félix,4
+1586,Centro-Oeste,GO,Iaciara,2
+1587,Sudeste,SP,Estrela D'Oeste,2
+1588,Centro-Oeste,GO,Buritinópolis,1
+1589,Sul,PR,Morretes,4
+1590,Centro-Oeste,MT,Pedra Preta,4
+1591,Nordeste,PI,Ribeira do Piauí,2
+1592,Nordeste,AL,Olho D'Água das Flores,1
+1593,Nordeste,BA,Ribeira do Amparo,2
+1594,Sudeste,MG,Perdões,12
+1595,Sul,PR,Manoel Ribas,7
+1596,Sudeste,SP,Valparaíso,8
+1597,Sudeste,SP,Sebastianópolis do Sul,3
+1598,Sudeste,MG,Catuji,2
+1599,Centro-Oeste,MT,Vera,1
+1600,Nordeste,RN,Pedro Velho,4
+1601,Sul,RS,Arroio Grande,1
+1602,Sudeste,MG,Santos Dumont,9
+1603,Norte,PA,Igarapé-Miri,1
+1604,Nordeste,MA,Estreito,2
+1605,Norte,AC,Assis Brasil,1
+1606,Sul,PR,Ortigueira,3
+1607,Sudeste,MG,Nova Ponte,3
+1608,Norte,AM,Tefé,3
+1609,Centro-Oeste,MS,Fátima do Sul,3
+1610,Nordeste,AL,Ibateguara,2
+1611,Sudeste,ES,Brejetuba,1
+1612,Nordeste,PB,Araruna,3
+1613,Sudeste,SP,Serra Negra,18
+1614,Nordeste,PI,São Félix do Piauí,1
+1615,Sudeste,SP,Piratininga,1
+1616,Norte,PA,Vigia,2
+1617,Nordeste,RN,Pau dos Ferros,16
+1618,Sudeste,SP,Mirante do Paranapanema,2
+1619,Centro-Oeste,GO,Caçu,5
+1620,Sudeste,SP,Santa Gertrudes,6
+1621,Centro-Oeste,MS,Nioaque,3
+1622,Sudeste,MG,Serra do Cipó,1
+1623,Nordeste,CE,Ubajara,3
+1624,Centro-Oeste,MT,Juscimeira,2
+1625,Sudeste,ES,Ibiraçu,7
+1626,Norte,AM,São Gabriel da Cachoeira,2
+1627,Sudeste,SP,Guatapará,3
+1628,Centro-Oeste,MT,Água Boa,9
+1629,Nordeste,CE,Santana do Acaraú,2
+1630,Nordeste,PE,Timbaúba,4
+1631,Sul,SC,Três Barras,5
+1632,Norte,AP,Pedra Branca do Amaparí,1
+1633,Sudeste,SP,Primavera,4
+1634,Sul,PR,Cambará,5
+1635,Sul,PR,Mandaguaçu,5
+1636,Sudeste,SP,Itararé,4
+1637,Sul,RS,Alegrete,15
+1638,Sul,RS,Feliz,4
+1639,Sudeste,MG,Esmeraldas,14
+1640,Sudeste,SP,Ibaté,8
+1641,Nordeste,PE,Sertânia,4
+1642,Nordeste,PI,Palmeirais,1
+1643,Nordeste,BA,Antas,1
+1644,Sudeste,MG,Guaranésia,7
+1645,Sul,PR,Mandaguari,8
+1646,Sudeste,SP,Bom Jesus dos Perdões,3
+1647,Sudeste,MG,Itaú de Minas,7
+1648,Sudeste,SP,Juquiá,1
+1649,Sudeste,SP,Nazaré Paulista,5
+1650,Sul,RS,Lavras do Sul,1
+1651,Nordeste,PE,Lagoa Grande,1
+1652,Norte,AC,Bujari,2
+1653,Sul,PR,Serranópolis do Iguaçu,3
+1654,Sul,PR,Florestópolis,2
+1655,Sul,PR,Santa Izabel do Oeste,4
+1656,Nordeste,AL,Coruripe,1
+1657,Nordeste,RN,Governador Dix-Sept Rosado,1
+1658,Sudeste,MG,Conselheiro Pena,2
+1659,Sudeste,SP,Duartina,3
+1660,Sul,PR,Congonhinhas,2
+1661,Sul,RS,Barão de Cotegipe,4
+1662,Centro-Oeste,MT,Aripuanã,3
+1663,Nordeste,PB,Pombal,2
+1664,Nordeste,SE,Nossa Senhora das Dores,3
+1665,Centro-Oeste,MT,Guarantã do Norte,3
+1666,Sudeste,MG,Ataléia,2
+1667,Nordeste,PE,Jupi,1
+1668,Nordeste,CE,Morada Nova,2
+1669,Sul,RS,Três Coroas,2
+1670,Sul,SC,Seara,1
+1671,Sudeste,MG,Catas Altas,2
+1672,Nordeste,CE,Maranguape,7
+1673,Nordeste,SE,Propriá,3
+1674,Sudeste,MG,Delta,3
+1675,Nordeste,PE,Maraial,1
+1676,Nordeste,BA,Muritiba,4
+1677,Sul,SC,Balneário Barra do Sul,2
+1678,Nordeste,PB,Conde,5
+1679,Sudeste,SP,Presidente Epitácio,5
+1680,Sul,SC,Abdon Batista,2
+1681,Sudeste,SP,Riolândia,2
+1682,Nordeste,AL,Limoeiro de Anadia,1
+1683,Sul,RS,São José do Herval,1
+1684,Nordeste,CE,Antonina do Norte,2
+1685,Sudeste,MG,Taiobeiras,6
+1686,Sul,PR,Sulina,2
+1687,Sudeste,SP,Cândido Mota,9
+1688,Sudeste,SP,Cajobi,2
+1689,Nordeste,CE,Crato,20
+1690,Norte,PA,Eldorado dos Carajás,2
+1691,Nordeste,RN,Riachuelo,1
+1692,Sudeste,SP,Cardoso,3
+1693,Nordeste,BA,Governador Mangabeira,4
+1694,Sudeste,SP,Santa Cruz da Conceição,2
+1695,Sudeste,MG,Santa Vitória,2
+1696,Sudeste,SP,Monte Alegre do Sul,2
+1697,Sudeste,MG,Córrego Fundo,2
+1698,Nordeste,RN,Parelhas,3
+1699,Nordeste,AL,Paulo Jacinto,1
+1700,Sudeste,SP,Cordeirópolis,6
+1701,Nordeste,MA,Tasso Fragoso,2
+1702,Nordeste,RN,Montanhas,1
+1703,Norte,PA,Tomé-Açu,5
+1704,Sul,RS,Lagoa Vermelha,5
+1705,Sul,SC,Agronômica,1
+1706,Sudeste,SP,Santa Albertina,1
+1707,Nordeste,BA,Santaluz,1
+1708,Sul,SC,Águas de Chapecó,1
+1709,Norte,AC,Tarauacá,1
+1710,Centro-Oeste,MS,Cassilândia,8
+1711,Sul,PR,Doutor Camargo,4
+1712,Sudeste,ES,Baixo Guandu,14
+1713,Centro-Oeste,MT,Matupá,5
+1714,Nordeste,SE,Moita Bonita,1
+1715,Nordeste,RN,Nova Cruz,3
+1716,Centro-Oeste,GO,Bom Jesus,12
+1717,Sudeste,SP,Pindorama,3
+1718,Sul,SC,Governador Celso Ramos,6
+1719,Nordeste,BA,Itororó,2
+1720,Sul,RS,Nova Bassano,3
+1721,Sul,RS,Boa Vista do Buricá,2
+1722,Nordeste,BA,Heliópolis,2
+1723,Sudeste,ES,Alfredo Chaves,2
+1724,Sudeste,SP,Holambra II,2
+1725,Sudeste,SP,Arco-Íris,1
+1726,Nordeste,CE,Acopiara,1
+1727,Sudeste,SP,Pirapora do Bom Jesus,2
+1728,Sudeste,MG,Martinho Campos,4
+1729,Centro-Oeste,GO,Nazário,3
+1730,Sudeste,MG,Carlos Chagas,4
+1731,Sudeste,MG,Conceição do Rio Verde,1
+1732,Norte,RO,Nova Brasilândia D'Oeste,2
+1733,Sudeste,SP,Severínia,3
+1734,Sudeste,SP,Presidente Bernardes,3
+1735,Nordeste,BA,Fátima,1
+1736,Sudeste,MG,Ouro Fino,6
+1737,Sudeste,SP,Itápolis,5
+1738,Sul,PR,Pérola,1
+1739,Nordeste,BA,Maracás,2
+1740,Nordeste,CE,Paraipaba,1
+1741,Sul,PR,Prudentópolis,5
+1742,Norte,TO,Miranorte,4
+1743,Sudeste,MG,Bicas,5
+1744,Sul,RS,Dois Lajeados,1
+1745,Sul,RS,Sete de Setembro,1
+1746,Centro-Oeste,MT,Juína,6
+1747,Sudeste,SP,Santa Fé do Sul,5
+1748,Nordeste,MA,Vitória do Mearim,3
+1749,Sudeste,MG,Carmo do Rio Claro,6
+1750,Sudeste,MG,Bocaiúva,11
+1751,Nordeste,BA,Gandu,4
+1752,Sudeste,SP,Terra Roxa,10
+1753,Centro-Oeste,GO,Aparecida do Rio Doce,1
+1754,Centro-Oeste,GO,Rialma,2
+1755,Centro-Oeste,MT,Marcelândia,1
+1756,Nordeste,MA,Parnarama,1
+1757,Nordeste,CE,Parambu,2
+1758,Sul,PR,Ubiratã,8
+1759,Sudeste,MG,Patrocínio do Muriaé,2
+1760,Nordeste,PE,Custódia,2
+1761,Sul,SC,Agrolândia,1
+1762,Nordeste,BA,Oliveira dos Brejinhos,2
+1763,Sul,RS,São Martinho da Serra,1
+1764,Nordeste,PE,Ribeirão,6
+1765,Sul,RS,Sobradinho,4
+1766,Sudeste,MG,Piranga,2
+1767,Sudeste,RJ,Mendes,7
+1768,Nordeste,RN,Tibau do Sul,6
+1769,Norte,AP,Porto Grande,1
+1770,Norte,AM,Maués,2
+1771,Nordeste,PB,Bananeiras,1
+1772,Sudeste,MG,São Thomé das Letras,1
+1773,Centro-Oeste,GO,Britânia,1
+1774,Nordeste,PE,Itacuruba,2
+1775,Nordeste,RN,Santo Antônio,1
+1776,Sul,PR,Piên,2
+1777,Sudeste,SP,Sarapuí,2
+1778,Sudeste,MG,Carneirinho,2
+1779,Centro-Oeste,GO,Flores de Goiás,3
+1780,Nordeste,BA,Cafarnaum,1
+1781,Sudeste,MG,Monte Carmelo,9
+1782,Sudeste,SP,Pilar do Sul,6
+1783,Sul,RS,Pantano Grande,5
+1784,Nordeste,MA,São Bento,3
+1785,Nordeste,PE,Carpina,12
+1786,Sudeste,MG,Jequeri,2
+1787,Sudeste,SP,Iguape,9
+1788,Nordeste,MA,São João Batista,5
+1789,Sudeste,MG,São João Batista do Glória,2
+1790,Sudeste,SP,Emilianópolis,1
+1791,Sudeste,SP,Santo Antônio do Aracanguá,3
+1792,Nordeste,CE,Irauçuba,3
+1793,Centro-Oeste,GO,São Miguel do Araguaia,15
+1794,Nordeste,CE,Beberibe,3
+1795,Sul,RS,Vacaria,15
+1796,Sul,PR,Pato Bragado,3
+1797,Sul,RS,Cacequi,2
+1798,Sul,PR,Pontal do Paraná,8
+1799,Sudeste,SP,Aguaí,8
+1800,Sudeste,SP,Brodowski,3
+1801,Sul,SC,Itapiranga,8
+1802,Nordeste,CE,Jaguaribe,4
+1803,Sul,SC,Ituporanga,5
+1804,Norte,RO,Jaru,9
+1805,Norte,TO,Xambioá,1
+1806,Norte,PA,Peixe-Boi,2
+1807,Sudeste,SP,Bastos,8
+1808,Nordeste,CE,Boa Viagem,2
+1809,Sul,PR,Renascença,3
+1810,Sul,PR,Verê,1
+1811,Sudeste,MG,Sapucaí-Mirim,1
+1812,Centro-Oeste,GO,Estrela do Norte,2
+1813,Sul,RS,Santa Margarida do Sul,2
+1814,Nordeste,RN,São Miguel,2
+1815,Sudeste,MG,Rio Novo,2
+1816,Centro-Oeste,GO,Mambaí,3
+1817,Sul,RS,São João da Urtiga,1
+1818,Nordeste,BA,Taperoá,4
+1819,Sudeste,SP,Guapiaçu,2
+1820,Norte,TO,Miracema do Tocantins,2
+1821,Nordeste,PE,Catende,2
+1822,Norte,PA,Igarapé-Açu,1
+1823,Sudeste,MG,Antônio Pereira,3
+1824,Centro-Oeste,GO,Faina,2
+1825,Sudeste,MG,Santana do Paraíso,5
+1826,Sul,RS,Morro Redondo,3
+1827,Sudeste,MG,Dom Bosco,1
+1828,Nordeste,BA,Ibipeba,3
+1829,Nordeste,BA,Ibotirama,4
+1830,Sudeste,SP,Domélia,4
+1831,Sudeste,SP,Águas de São Pedro,6
+1832,Sul,RS,Centenário,1
+1833,Sul,PR,Santa Fé,2
+1834,Nordeste,CE,Palhano,1
+1835,Sudeste,SP,Ipuã,3
+1836,Sudeste,SP,Ipeúna,2
+1837,Sul,RS,Tenente Portela,2
+1838,Sul,PR,Santa Amélia,2
+1839,Sudeste,SP,Bananal,4
+1840,Sul,RS,Alvorada,24
+1841,Nordeste,BA,Araçás,2
+1842,Nordeste,CE,Reriutaba,1
+1843,Sudeste,SP,Iacri,2
+1844,Sul,SC,São João do Sul,1
+1845,Sudeste,MG,Nova Resende,2
+1846,Nordeste,BA,Cumuruxatiba,1
+1847,Sudeste,SP,Dumont,1
+1848,Sudeste,RJ,Piraí,2
+1849,Sul,RS,Faxinal do Soturno,3
+1850,Sul,RS,São José do Inhacorá,1
+1851,Sudeste,SP,Rancharia,7
+1852,Nordeste,PB,São José de Piranhas,2
+1853,Sudeste,SP,Torrinha,2
+1854,Centro-Oeste,MS,Brasilândia,1
+1855,Nordeste,SE,Pinhão,3
+1856,Sudeste,MG,Carmo da Mata,2
+1857,Nordeste,PE,Belo Jardim,8
+1858,Sul,PR,Jacarezinho,8
+1859,Sudeste,SP,Borborema,5
+1860,Norte,TO,São Bento do Tocantins,1
+1861,Nordeste,PI,Curral Novo do Piauí,2
+1862,Sudeste,MG,Entre Rios de Minas,5
+1863,Sudeste,MG,Monjolos,1
+1864,Sudeste,SP,Bady Bassitt,6
+1865,Sul,PR,Diamante do Sul,1
+1866,Norte,AP,Oiapoque,3
+1867,Nordeste,PI,Marcos Parente,1
+1868,Nordeste,PE,Santa Cruz do Capibaribe,8
+1869,Nordeste,PB,Catolé do Rocha,5
+1870,Sul,PR,General Carneiro,2
+1871,Sul,PR,Mamborê,5
+1872,Sudeste,SP,Riversul,1
+1873,Sudeste,MG,Santo Antônio do Amparo,4
+1874,Nordeste,RN,Jandaíra,1
+1875,Sul,RS,Panambi,11
+1876,Sul,RS,Sertão,3
+1877,Norte,AP,Laranjal do Jari,5
+1878,Nordeste,PE,Itambé,8
+1879,Sudeste,SP,Conchal,6
+1880,Sudeste,MG,Tocantins,5
+1881,Sudeste,MG,Gouveia,2
+1882,Sul,PR,Icaraíma,1
+1883,Nordeste,CE,Ipu,6
+1884,Sudeste,SP,Alvinlândia,1
+1885,Sudeste,MG,Maria da Fé,4
+1886,Sudeste,MG,Lajinha,2
+1887,Nordeste,PE,Taquaritinga do Norte,2
+1888,Sul,RS,Encantado,3
+1889,Nordeste,BA,Buerarema,2
+1890,Sudeste,SP,Arealva,2
+1891,Norte,PA,Conceição do Araguaia,6
+1892,Nordeste,AL,São Miguel dos Campos,3
+1893,Centro-Oeste,MT,Guiratinga,3
+1894,Centro-Oeste,MT,São José dos Quatro Marcos,4
+1895,Sudeste,MG,Chonim,1
+1896,Norte,PA,Benevides,1
+1897,Sul,RS,Pinhal Grande,1
+1898,Centro-Oeste,MT,Nova Ubiratã,3
+1899,Sul,PR,Laranjeiras do Sul,7
+1900,Sul,RS,Constantina,1
+1901,Sudeste,SP,Santo Antônio de Posse,3
+1902,Sudeste,SP,Itirapina,7
+1903,Sudeste,MG,Espera Feliz,4
+1904,Centro-Oeste,MT,Santa Cruz do Xingu,1
+1905,Nordeste,CE,Santa Quitéria,2
+1906,Sudeste,SP,Ilha Comprida,4
+1907,Norte,RR,Caracaraí,4
+1908,Nordeste,PI,José de Freitas,2
+1909,Norte,TO,Tocantinópolis,2
+1910,Sul,PR,Santo Inácio,1
+1911,Nordeste,CE,Campos Sales,3
+1912,Nordeste,BA,Chorrochó,2
+1913,Sudeste,SP,Potirendaba,6
+1914,Sudeste,SP,Piacatu,2
+1915,Sudeste,SP,Cajuru,2
+1916,Sudeste,MG,Alvinópolis,4
+1917,Sul,RS,Taquari,3
+1918,Sudeste,MG,Serra do Salitre,1
+1919,Sul,RS,Fazenda Vilanova,1
+1920,Norte,RR,Pacaraima,3
+1921,Sul,SC,São Ludgero,2
+1922,Sul,SC,União do Oeste,1
+1923,Sudeste,SP,São Lourenço da Serra,4
+1924,Norte,AC,Plácido de Castro,2
+1925,Nordeste,PE,Passira,1
+1926,Sudeste,SP,Vargem Grande do Sul,3
+1927,Sudeste,MG,Campos Gerais,1
+1928,Nordeste,PB,Puxinanã,2
+1929,Centro-Oeste,MT,Arenápolis,2
+1930,Sul,PR,Ivaí,3
+1931,Nordeste,BA,Itanagra,2
+1932,Sul,RS,Carlos Barbosa,6
+1933,Sudeste,SP,Gália,2
+1934,Sudeste,SP,Dolcinópolis,1
+1935,Sudeste,MG,Lima Duarte,3
+1936,Sudeste,MG,José Raydan,1
+1937,Centro-Oeste,GO,Cachoeira Alta,3
+1938,Nordeste,BA,Capim Grosso,4
+1939,Sudeste,SP,Nova Luzitânia,4
+1940,Nordeste,RN,Bodó,1
+1941,Sul,SC,Rodeio,6
+1942,Sul,PR,Salto do Lontra,2
+1943,Norte,TO,Dianópolis,2
+1944,Centro-Oeste,GO,Rio Quente,1
+1945,Sudeste,SP,Candia,1
+1946,Sudeste,MG,Ubaí,1
+1947,Nordeste,RN,Macaíba,11
+1948,Nordeste,BA,Correntina,3
+1949,Sul,SC,Tunápolis,3
+1950,Centro-Oeste,GO,Ouvidor,1
+1951,Sudeste,MG,Liberdade,1
+1952,Sudeste,SP,Orindiúva,4
+1953,Nordeste,SE,Canindé de São Francisco,2
+1954,Sudeste,SP,Cardeal,2
+1955,Sudeste,RJ,Bom Jardim,4
+1956,Norte,AM,Coari,3
+1957,Sul,RS,Cotiporã,2
+1958,Norte,PA,Salinópolis,4
+1959,Sul,PR,Campina Grande do Sul,10
+1960,Sul,SC,Braço do Trombudo,1
+1961,Sudeste,MG,Ibiaí,2
+1962,Sul,PR,Vera Cruz do Oeste,1
+1963,Sudeste,ES,Ponto Belo,1
+1964,Centro-Oeste,GO,Corumbaíba,1
+1965,Sudeste,SP,Cabrália Paulista,1
+1966,Centro-Oeste,GO,Aragarças,4
+1967,Sul,PR,Nova Prata do Iguaçu,2
+1968,Sudeste,SP,Batatais,14
+1969,Sudeste,MG,Nova Era,3
+1970,Centro-Oeste,MS,Anastácio,4
+1971,Norte,AC,Acrelândia,1
+1972,Sudeste,MG,Monte Alegre de Minas,1
+1973,Sudeste,SP,Guararapes,17
+1974,Sudeste,MG,Bambuí,2
+1975,Nordeste,AL,Jequiá da Praia,1
+1976,Nordeste,SE,Itaporanga D'Ajuda,1
+1977,Nordeste,CE,Ipaumirim,2
+1978,Centro-Oeste,MT,Comodoro,4
+1979,Nordeste,MA,Colinas,3
+1980,Sudeste,SP,Porangaba,2
+1981,Sudeste,SP,Macatuba,5
+1982,Nordeste,BA,São Desidério,4
+1983,Norte,RO,Campo Novo de Rondônia,2
+1984,Nordeste,PI,Esperantina,7
+1985,Norte,PA,Cametá,6
+1986,Nordeste,CE,Nova Russas,1
+1987,Norte,PA,Concórdia do Pará,1
+1988,Sudeste,MG,São Sebastião da Vargem Alegre,2
+1989,Sul,RS,Candelária,3
+1990,Sudeste,SP,Guaraci,1
+1991,Sudeste,MG,São Francisco,4
+1992,Sul,RS,Antônio Prado,7
+1993,Sul,SC,Erval Velho,1
+1994,Sudeste,MG,Campestre,6
+1995,Sudeste,MG,Bom Sucesso,2
+1996,Sul,RS,Tapera,3
+1997,Centro-Oeste,GO,Pires do Rio,14
+1998,Sul,SC,Ilhota,3
+1999,Nordeste,BA,Jeremoabo,2
+2000,Sul,RS,Tuparendi,1
+2001,Sudeste,MG,Fernandes Tourinho,1
+2002,Norte,TO,Palmeiras do Tocantins,2
+2003,Nordeste,PB,Congo,2
+2004,Nordeste,RN,João Dias,1
+2005,Sudeste,MG,Gurinhatã,1
+2006,Sudeste,ES,Vargem Alta,5
+2007,Centro-Oeste,GO,Hidrolândia,4
+2008,Sul,SC,Xaxim,4
+2009,Sudeste,MG,Cambuí,9
+2010,Nordeste,BA,Sapeaçu,2
+2011,Nordeste,BA,Presidente Dutra,2
+2012,Sudeste,SP,Pedra Bela,3
+2013,Nordeste,RN,Rio do Fogo,1
+2014,Sudeste,MG,Bela Vista de Minas,4
+2015,Norte,RO,Machadinho D'Oeste,7
+2016,Sul,SC,Dona Emma,3
+2017,Sudeste,MG,Senador Firmino,5
+2018,Sul,PR,Imbaú,1
+2019,Sudeste,MG,Curral de Dentro,1
+2020,Norte,AC,Cruzeiro do Sul,11
+2021,Norte,RO,Cujubim,3
+2022,Sudeste,SP,Sagres,1
+2023,Centro-Oeste,GO,Mozarlândia,3
+2024,Nordeste,CE,Barreira,1
+2025,Nordeste,PE,Palmeirina,1
+2026,Nordeste,BA,Itanhém,1
+2027,Sudeste,RJ,Iguaba Grande,4
+2028,Nordeste,BA,Caeté-Açu,2
+2029,Sudeste,SP,Igaraçu do Tietê,4
+2030,Sudeste,SP,Palmital,6
+2031,Nordeste,RN,Riacho de Santana,1
+2032,Sudeste,SP,Pacaembu,2
+2033,Sudeste,MG,Desterro do Melo,1
+2034,Sudeste,SP,Jardinópolis,7
+2035,Sul,RS,Itaqui,3
+2036,Sul,SC,Formosa do Sul,1
+2037,Nordeste,PI,Piracuruca,2
+2038,Sul,PR,Juranda,3
+2039,Sul,SC,Urussanga,12
+2040,Sul,SC,Garuva,6
+2041,Nordeste,CE,Icó,5
+2042,Nordeste,CE,Senador Pompeu,2
+2043,Nordeste,CE,Tauá,1
+2044,Nordeste,CE,Pedra Branca,1
+2045,Nordeste,CE,Mombaça,1
+2046,Nordeste,CE,Lavras da Mangabeira,2
+2047,Nordeste,CE,Jucás,4
+2048,Nordeste,CE,Saboeiro,1
+2049,Centro-Oeste,MT,Tapurah,4
+2050,Nordeste,RN,Macau,1
+2051,Sul,PR,Vitorino,1
+2052,Sudeste,RJ,Natividade,3
+2053,Sudeste,MG,Bandeira do Sul,1
+2054,Nordeste,CE,Massapê,1
+2055,Nordeste,MA,Santa Inês,10
+2056,Nordeste,CE,Barroquinha,1
+2057,Nordeste,BA,Ribeira do Pombal,8
+2058,Sul,SC,Imbuia,1
+2059,Nordeste,BA,Urandi,1
+2060,Nordeste,AL,Porto Calvo,2
+2061,Sudeste,MG,Ouro Verde de Minas,2
+2062,Nordeste,PI,Cocal,5
+2063,Nordeste,CE,Porteiras,2
+2064,Nordeste,RN,Passa e Fica,1
+2065,Norte,PA,Vila dos Cabanos,3
+2066,Centro-Oeste,GO,Inaciolândia,1
+2067,Sul,RS,Júlio de Castilhos,1
+2068,Nordeste,PE,Goiana,11
+2069,Sudeste,MG,Rio Pardo de Minas,2
+2070,Norte,AP,Mazagão,1
+2071,Sul,SC,Nova Erechim,1
+2072,Norte,PA,Mãe do Rio,2
+2073,Sudeste,MG,Ipanema,1
+2074,Sul,RS,Arambaré,1
+2075,Centro-Oeste,GO,São Miguel do Passa Quatro,4
+2076,Nordeste,BA,Itagi,1
+2077,Sul,RS,Paraí,1
+2078,Sul,RS,Alto Alegre,1
+2079,Sudeste,SP,Oscar Bressane,1
+2080,Nordeste,PB,Juripiranga,4
+2081,Sudeste,RJ,Retiro do Muriaé,2
+2082,Sudeste,SP,Ibirarema,1
+2083,Nordeste,BA,Cordeiros,1
+2084,Nordeste,BA,Cabaceiras do Paraguaçu,1
+2085,Sul,RS,Ernestina,1
+2086,Nordeste,BA,Ituberá,3
+2087,Sudeste,SP,Santo Antônio da Alegria,2
+2088,Sul,RS,Quaraí,7
+2089,Sudeste,SP,Tambaú,5
+2090,Centro-Oeste,GO,São Luís de Montes Belos,10
+2091,Sul,RS,Roque Gonzales,3
+2092,Centro-Oeste,GO,Acreúna,2
+2093,Centro-Oeste,GO,Paraúna,1
+2094,Sul,RS,Santa Clara do Sul,3
+2095,Sudeste,MG,Capinópolis,2
+2096,Sul,PR,Engenheiro Beltrão,4
+2097,Nordeste,BA,Irará,2
+2098,Sul,PR,Quedas do Iguaçu,4
+2099,Nordeste,PI,Capitão de Campos,2
+2100,Nordeste,AL,São Miguel dos Milagres,1
+2101,Sul,RS,Bom Retiro do Sul,3
+2102,Centro-Oeste,GO,Chapadão do Céu,6
+2103,Sudeste,SP,Morungaba,7
+2104,Norte,PA,Xinguara,5
+2105,Nordeste,CE,São Benedito,2
+2106,Sul,RS,Nova Boa Vista,1
+2107,Sudeste,MG,Jaboticatubas,3
+2108,Nordeste,BA,Banzaê,1
+2109,Sudeste,MG,Alterosa,6
+2110,Sudeste,SP,Rio das Pedras,4
+2111,Nordeste,BA,Itagibá,1
+2112,Nordeste,CE,Itatira,1
+2113,Nordeste,BA,Piatã,3
+2114,Nordeste,MA,Porto Franco,3
+2115,Centro-Oeste,GO,Indiara,5
+2116,Nordeste,RN,Nísia Floresta,2
+2117,Nordeste,PE,São Caitano,2
+2118,Nordeste,CE,Jordão,1
+2119,Centro-Oeste,GO,Niquelândia,4
+2120,Nordeste,PE,Iati,3
+2121,Norte,PA,Ulianópolis,1
+2122,Nordeste,RN,Ipueira,2
+2123,Sul,PR,Carlópolis,4
+2124,Sudeste,MG,Queluzito,2
+2125,Sudeste,MG,Abre Campo,2
+2126,Sudeste,MG,Gonçalves,4
+2127,Nordeste,PE,Toritama,5
+2128,Sudeste,MG,Crucilândia,3
+2129,Nordeste,BA,Mucugê,4
+2130,Norte,RO,Espigão do Oeste,2
+2131,Sudeste,MG,Medina,5
+2132,Norte,RO,Costa Marques,2
+2133,Sul,RS,Pedras Altas,2
+2134,Sudeste,MG,Guaraciaba,1
+2135,Sul,PR,Guaraqueçaba,2
+2136,Centro-Oeste,MT,Porto Alegre do Norte,4
+2137,Sul,PR,Coronel Domingos Soares,1
+2138,Sul,PR,Lunardelli,1
+2139,Sul,RS,São José do Hortêncio,3
+2140,Sul,RS,São Pedro da Serra,1
+2141,Sudeste,MG,Caetanópolis,1
+2142,Centro-Oeste,GO,Itapirapuã,1
+2143,Sul,RS,Triunfo,7
+2144,Sudeste,SP,Itariri,2
+2145,Centro-Oeste,GO,Vicentinópolis,11
+2146,Sudeste,MG,Cajuri,1
+2147,Nordeste,PB,Pedra Lavrada,1
+2148,Sudeste,MG,Botelhos,2
+2149,Nordeste,PB,Boa Ventura,1
+2150,Nordeste,PB,Pirpirituba,2
+2151,Nordeste,PE,Rio Formoso,1
+2152,Sul,PR,Ventania,1
+2153,Sudeste,SP,Aldeia de Carapicuíba,1
+2154,Nordeste,BA,Teofilândia,1
+2155,Nordeste,BA,Muniz Ferreira,1
+2156,Sul,SC,Irani,1
+2157,Sudeste,ES,Muqui,2
+2158,Nordeste,BA,São Felipe,1
+2159,Sul,PR,Santa Lúcia,3
+2160,Nordeste,BA,Macarani,1
+2161,Sudeste,MG,São Roque de Minas,1
+2162,Sudeste,RJ,Areal,5
+2163,Sudeste,MG,Passagem de Mariana,1
+2164,Sul,PR,Santa Cruz de Monte Castelo,1
+2165,Sul,PR,Ipiranga,2
+2166,Sudeste,MG,Doresópolis,2
+2167,Nordeste,MA,Senador La Rocque,1
+2168,Sudeste,MG,Sardoá,1
+2169,Sudeste,MG,Novo Oriente de Minas,1
+2170,Nordeste,BA,Caraíbas,1
+2171,Sul,PR,Tunas do Paraná,2
+2172,Nordeste,PB,Guarabira,6
+2173,Sudeste,MG,Raposos,7
+2174,Nordeste,MA,Pindaré Mirim,1
+2175,Nordeste,PE,Buíque,1
+2176,Nordeste,BA,Araci,4
+2177,Nordeste,MA,Itinga do Maranhão,3
+2178,Sul,PR,Marumbi,1
+2179,Sudeste,SP,Itatinga,1
+2180,Sul,PR,Mariópolis,5
+2181,Sul,PR,Santa Cecília do Pavão,2
+2182,Centro-Oeste,GO,Caiapônia,1
+2183,Norte,PA,Santo Antônio do Tauá,1
+2184,Sudeste,MG,Manga,1
+2185,Sudeste,MG,Naque,1
+2186,Nordeste,BA,São Félix do Coribe,3
+2187,Sul,SC,Corupá,3
+2188,Sul,PR,Tuneiras do Oeste,2
+2189,Sul,RS,Picada Café,2
+2190,Sudeste,MG,São Vicente de Minas,2
+2191,Nordeste,MA,Bacabeira,1
+2192,Norte,PA,São Sebastião da Boa Vista,3
+2193,Centro-Oeste,GO,Terezópolis de Goiás,1
+2194,Norte,PA,Breu Branco,2
+2195,Sudeste,SP,Regente Feijó,7
+2196,Sudeste,SP,Santa Rosa de Viterbo,3
+2197,Sudeste,MG,Igarapé,7
+2198,Sul,SC,Massaranduba,5
+2199,Nordeste,PE,Itaquitinga,2
+2200,Sudeste,MG,Papagaios,3
+2201,Centro-Oeste,MT,Poxoréu,1
+2202,Nordeste,BA,Marcionílio Souza,1
+2203,Sudeste,RJ,Rio das Flores,2
+2204,Nordeste,PB,Alagoa Grande,1
+2205,Nordeste,AL,Barra de Santo Antônio,1
+2206,Nordeste,PI,Queimada Nova,1
+2207,Centro-Oeste,GO,Taquaral de Goiás,1
+2208,Sudeste,ES,Fundão,1
+2209,Sudeste,SP,Joanópolis,3
+2210,Sudeste,MG,São Domingos do Prata,3
+2211,Centro-Oeste,MS,Água Clara,3
+2212,Sul,RS,Mato Leitão,1
+2213,Nordeste,PE,Petrolândia,4
+2214,Centro-Oeste,MT,Jangada,1
+2215,Sul,PR,São Pedro do Ivaí,3
+2216,Sudeste,SP,Clementina,2
+2217,Nordeste,CE,Milhã,1
+2218,Centro-Oeste,MS,Eldorado,2
+2219,Sudeste,SP,Canas,1
+2220,Sul,RS,Campos Borges,1
+2221,Sul,RS,Santo Antônio das Missões,2
+2222,Nordeste,PB,Itapororoca,1
+2223,Sul,RS,São Luiz Gonzaga,4
+2224,Centro-Oeste,MT,Denise,1
+2225,Sul,PR,Iporã,2
+2226,Centro-Oeste,MT,Porto dos Gaúchos,1
+2227,Centro-Oeste,MS,Caracol,1
+2228,Centro-Oeste,MS,Aquidauana,10
+2229,Sudeste,SP,Taquarivaí,3
+2230,Centro-Oeste,GO,Nova Crixás,2
+2231,Centro-Oeste,MS,Guia Lopes da Laguna,2
+2232,Nordeste,PB,Teixeira,3
+2233,Nordeste,SE,Cristinápolis,1
+2234,Nordeste,BA,Barra,2
+2235,Sudeste,SP,Populina,2
+2236,Sul,RS,Salvador das Missões,1
+2237,Sudeste,SP,Bofete,3
+2238,Sudeste,ES,Santa Leopoldina,3
+2239,Sul,RS,Manoel Viana,1
+2240,Sudeste,SP,Santópolis do Aguapeí,2
+2241,Nordeste,BA,Glória,1
+2242,Sul,PR,Agudos do Sul,1
+2243,Sudeste,SP,Pirangi,1
+2244,Sudeste,MG,Guarda-Mor,4
+2245,Sudeste,SP,Teodoro Sampaio,3
+2246,Sudeste,MG,Aparecida de Minas,1
+2247,Sudeste,SP,Paranapanema,3
+2248,Sudeste,ES,Jaguaré,1
+2249,Sudeste,SP,Américo de Campos,3
+2250,Nordeste,PE,São Joaquim do Monte,1
+2251,Sul,PR,Rebouças,2
+2252,Nordeste,PB,Soledade,4
+2253,Sul,PR,Fênix,1
+2254,Sul,PR,Carambeí,4
+2255,Sul,PR,Piraí do Sul,5
+2256,Nordeste,CE,Granja,5
+2257,Sudeste,MG,Urucânia,1
+2258,Sudeste,MG,Zelândia,1
+2259,Sudeste,MG,Areado,2
+2260,Sudeste,MG,Itinga,1
+2261,Sudeste,SP,Mineiros do Tietê,1
+2262,Sudeste,MG,Vargem Bonita,1
+2263,Sudeste,ES,Ibitirama,1
+2264,Sudeste,SP,Paulópolis,1
+2265,Sul,PR,Barbosa Ferraz,1
+2266,Sul,SC,Campo Belo do Sul,2
+2267,Sudeste,ES,Atílio Vivácqua,1
+2268,Sul,PR,Jussara,3
+2269,Nordeste,BA,Dom Basílio,1
+2270,Nordeste,PI,Altos,1
+2271,Sul,RS,Igrejinha,5
+2272,Sul,PR,Mauá da Serra,4
+2273,Nordeste,PE,Serrita,1
+2274,Sudeste,ES,Presidente Kennedy,1
+2275,Nordeste,CE,Missão Velha,1
+2276,Sul,RS,Inhacorá,2
+2277,Sul,PR,Nova Londrina,1
+2278,Sul,PR,Reserva do Iguaçu,1
+2279,Nordeste,SE,Laranjeiras,1
+2280,Sul,PR,Nova Santa Rosa,4
+2281,Centro-Oeste,MT,Itaúba,1
+2282,Sudeste,MG,Piranguçu,2
+2283,Sul,RS,Coronel Bicaco,1
+2284,Nordeste,PE,Surubim,3
+2285,Sul,RS,São Marcos,3
+2286,Sul,PR,Altônia,3
+2287,Sudeste,MG,Tiradentes,4
+2288,Sul,PR,Iretama,3
+2289,Centro-Oeste,MS,Pedro Gomes,1
+2290,Centro-Oeste,GO,Firminópolis,1
+2291,Sudeste,SP,Morro Agudo,3
+2292,Nordeste,BA,Alcobaça,2
+2293,Nordeste,BA,Baixa Grande,1
+2294,Sul,PR,Alto Paraná,1
+2295,Sul,RS,Espumoso,2
+2296,Sul,SC,Forquilhinha,1
+2297,Sudeste,MG,Pompéu,4
+2298,Sul,PR,Santa Mariana,7
+2299,Sul,PR,Mangueirinha,2
+2300,Nordeste,SE,Aquidabã,2
+2301,Centro-Oeste,MS,Jardim,10
+2302,Sudeste,ES,Iconha,1
+2303,Sudeste,MG,Várzea da Palma,4
+2304,Sudeste,MG,Miraí,8
+2305,Sul,PR,Teixeira Soares,2
+2306,Nordeste,BA,Amargosa,5
+2307,Sudeste,ES,Sooretama,2
+2308,Nordeste,PB,Areia,1
+2309,Nordeste,BA,Euclides da Cunha,2
+2310,Sudeste,SP,Caconde,3
+2311,Sul,SC,Pouso Redondo,2
+2312,Sul,RS,Pejuçara,2
+2313,Sudeste,MG,Virginópolis,1
+2314,Sul,RS,Jaguarão,10
+2315,Nordeste,PB,Camalaú,2
+2316,Nordeste,BA,Itabatan,5
+2317,Sul,PR,Cândido de Abreu,1
+2318,Norte,PA,Curuá,3
+2319,Sudeste,SP,Potim,4
+2320,Centro-Oeste,GO,Abadiânia,1
+2321,Nordeste,PE,João Alfredo,3
+2322,Nordeste,MA,Buriticupu,2
+2323,Sudeste,MG,Passa Tempo,3
+2324,Sudeste,MG,Itambacuri,3
+2325,Norte,RO,Cerejeiras,1
+2326,Nordeste,PB,Alagoa Nova,1
+2327,Sul,SC,Lindóia do Sul,1
+2328,Sudeste,SP,Inúbia Paulista,1
+2329,Sul,RS,Nova Santa Rita,4
+2330,Norte,TO,Angico,1
+2331,Nordeste,AL,Japaratinga,1
+2332,Sudeste,MG,Itamonte,5
+2333,Nordeste,PE,Ipubi,1
+2334,Sul,RS,Coronel Barros,1
+2335,Sudeste,MG,Carandaí,2
+2336,Sul,PR,Santo Antônio do Sudoeste,2
+2337,Nordeste,BA,Ituaçu,1
+2338,Sudeste,MG,Recreio,1
+2339,Sul,PR,Santa Maria do Oeste,1
+2340,Nordeste,BA,Capela do Alto Alegre,2
+2341,Nordeste,AL,Joaquim Gomes,1
+2342,Sudeste,ES,Santa Teresa,4
+2343,Sudeste,MG,Santa Rosa da Serra,1
+2344,Sudeste,SP,Água Vermelha,1
+2345,Norte,RO,São Miguel do Guaporé,3
+2346,Nordeste,BA,Várzea da Roça,1
+2347,Nordeste,PI,São João do Arraial,2
+2348,Sudeste,MG,Paraisópolis,9
+2349,Nordeste,RN,Várzea,1
+2350,Sudeste,MG,Rodeiro,2
+2351,Sudeste,SP,Caiabu,1
+2352,Sul,RS,Pedro Osório,2
+2353,Sul,PR,Cantagalo,3
+2354,Sudeste,MG,Ipaba,2
+2355,Nordeste,PB,Sapé,3
+2356,Centro-Oeste,MT,Novo São Joaquim,1
+2357,Sudeste,RJ,Conservatória,2
+2358,Sudeste,MG,Ibitiúra de Minas,1
+2359,Sul,PR,Inácio Martins,1
+2360,Sudeste,SP,Pardinho,1
+2361,Sul,SC,Luiz Alves,2
+2362,Nordeste,CE,Ipueiras,1
+2363,Sudeste,SP,Igaratá,5
+2364,Nordeste,BA,Catu de Abrantes,3
+2365,Sul,SC,Treze de Maio,1
+2366,Sudeste,SP,Serra Azul,1
+2367,Sudeste,MG,Montezuma,2
+2368,Sul,PR,Três Barras do Paraná,3
+2369,Norte,PA,São Geraldo do Araguaia,1
+2370,Nordeste,PE,Sirinhaém,2
+2371,Sudeste,SP,Urupês,3
+2372,Sul,PR,Reserva,3
+2373,Sudeste,SP,Guará,3
+2374,Sul,RS,Capão do Leão,1
+2375,Sudeste,SP,Mirandópolis,10
+2376,Centro-Oeste,GO,Caldazinha,1
+2377,Nordeste,SE,Poço Verde,1
+2378,Sul,PR,Contenda,3
+2379,Sul,RS,Tavares,3
+2380,Sudeste,MG,São José do Alegre,2
+2381,Sudeste,SP,Alumínio,4
+2382,Sul,PR,Assaí,1
+2383,Nordeste,BA,Várzea Nova,1
+2384,Sudeste,SP,Lindóia,1
+2385,Sudeste,SP,Juquitiba,4
+2386,Centro-Oeste,MT,Porto Esperidião,3
+2387,Nordeste,BA,Encruzilhada,1
+2388,Centro-Oeste,MS,Coronel Sapucaia,1
+2389,Sul,SC,Mondaí,2
+2390,Nordeste,RN,Almino Afonso,1
+2391,Nordeste,BA,Aurelino Leal,1
+2392,Sudeste,MG,Divino,1
+2393,Sudeste,SP,Lucélia,3
+2394,Sul,RS,Morro Reuter,3
+2395,Centro-Oeste,MT,Novo Horizonte do Norte,1
+2396,Sudeste,ES,Apiacá,2
+2397,Sudeste,SP,Poloni,2
+2398,Sudeste,MG,Alpinópolis,3
+2399,Centro-Oeste,MT,Nova Canaã do Norte,3
+2400,Sudeste,SP,Saltinho,3
+2401,Nordeste,CE,Santana do Cariri,1
+2402,Sudeste,MG,Coronel Xavier Chaves,2
+2403,Nordeste,BA,Conceição da Feira,1
+2404,Norte,PA,Tracuateua,1
+2405,Sudeste,RJ,Barra de São João,2
+2406,Centro-Oeste,MS,Angélica,1
+2407,Nordeste,BA,Lagoa Real,2
+2408,Sul,RS,Dom Feliciano,1
+2409,Norte,RO,Ministro Andreazza,1
+2410,Sudeste,MG,São João da Mata,1
+2411,Nordeste,AL,Poço das Trincheiras,2
+2412,Norte,PA,Anajás,1
+2413,Nordeste,AL,Santana do Ipanema,7
+2414,Sudeste,MG,Nova Porteirinha,1
+2415,Sudeste,MG,Joaquim Felício,2
+2416,Nordeste,BA,Olindina,1
+2417,Norte,PA,Itupiranga,1
+2418,Sudeste,MG,Nova União,2
+2419,Nordeste,AL,Piranhas,3
+2420,Sul,SC,Papanduva,3
+2421,Sudeste,SP,Águas da Prata,2
+2422,Nordeste,RN,Alexandria,1
+2423,Sudeste,SP,Bilac,1
+2424,Nordeste,AL,Satuba,1
+2425,Centro-Oeste,MS,Vicentina,2
+2426,Sul,PR,Assis Chateaubriand,7
+2427,Sudeste,SP,Miguelópolis,3
+2428,Nordeste,CE,Jati,1
+2429,Centro-Oeste,GO,Santo Antônio do Descoberto,2
+2430,Nordeste,SE,Feira Nova,2
+2431,Sul,SC,Salete,2
+2432,Nordeste,BA,Itajuípe,1
+2433,Sudeste,MG,Dores do Indaiá,1
+2434,Sudeste,MG,Sabinópolis,1
+2435,Centro-Oeste,GO,Piracanjuba,2
+2436,Nordeste,AL,Paripueira,1
+2437,Centro-Oeste,MS,Anaurilândia,3
+2438,Sul,PR,Paraíso do Norte,2
+2439,Sul,SC,Ibirama,9
+2440,Sul,SC,Benedito Novo,1
+2441,Nordeste,BA,Sento Sé,2
+2442,Sudeste,SP,Guaraçaí,2
+2443,Sudeste,MG,Quartel Geral,2
+2444,Nordeste,BA,Palmas de Monte Alto,1
+2445,Sul,PR,Sertanópolis,4
+2446,Sudeste,MG,Lambari,4
+2447,Sudeste,SP,Catiguá,1
+2448,Nordeste,BA,Tanque Novo,2
+2449,Sudeste,MG,Inhaúma,4
+2450,Sul,SC,Pinheiro Preto,1
+2451,Sudeste,MG,São Joaquim de Bicas,1
+2452,Centro-Oeste,GO,Abadia de Goiás,2
+2453,Nordeste,PE,Vertentes,2
+2454,Sudeste,MG,Dionísio,1
+2455,Sudeste,MG,Pouso Alto,1
+2456,Sudeste,SP,Guarani D'Oeste,1
+2457,Sudeste,SP,Anhembi,5
+2458,Nordeste,BA,Riachão das Neves,1
+2459,Sudeste,MG,Cachoeira da Prata,1
+2460,Centro-Oeste,GO,Interlândia,1
+2461,Sudeste,SP,Ribeirão do Sul,1
+2462,Nordeste,BA,Paripiranga,5
+2463,Centro-Oeste,GO,Urutaí,1
+2464,Sudeste,MG,Pirapetinga,1
+2465,Nordeste,CE,Trairi,2
+2466,Sudeste,MG,Juruaia,3
+2467,Sul,PR,Quatro Pontes,2
+2468,Sul,RS,Águas Claras,1
+2469,Nordeste,BA,Lençóis,2
+2470,Centro-Oeste,GO,Teresina de Goiás,1
+2471,Centro-Oeste,MT,Alto Garças,1
+2472,Sudeste,SP,Paulicéia,1
+2473,Sudeste,MG,Estiva,1
+2474,Sul,SC,Witmarsum,2
+2475,Sul,PR,Marilena,1
+2476,Nordeste,PE,Camutanga,1
+2477,Sudeste,MG,Fortuna de Minas,1
+2478,Norte,TO,Arapoema,2
+2479,Nordeste,CE,Aurora,1
+2480,Centro-Oeste,GO,Água Fria de Goiás,1
+2481,Sul,SC,Lacerdópolis,1
+2482,Sul,RS,São Pedro do Sul,1
+2483,Centro-Oeste,GO,Aurilândia,1
+2484,Sudeste,SP,Flórida Paulista,1
+2485,Centro-Oeste,MT,Jaciara,3
+2486,Centro-Oeste,GO,Jardim ABC de Goiás,2
+2487,Sudeste,SP,Palmeiras de São Paulo,1
+2488,Norte,RO,Mutum Paraná,2
+2489,Nordeste,PI,Beneditinos,1
+2490,Sul,PR,Uraí,1
+2491,Norte,TO,Guaraí,2
+2492,Sudeste,RJ,Pureza,2
+2493,Sudeste,MG,Carmópolis de Minas,4
+2494,Sul,PR,Mandirituba,1
+2495,Sudeste,ES,Marilândia,1
+2496,Nordeste,SE,Ribeirópolis,1
+2497,Sul,PR,Diamante do Norte,1
+2498,Sudeste,SP,Rifaina,1
+2499,Sudeste,ES,Itapemirim,4
+2500,Sul,RS,Ciríaco,1
+2501,Nordeste,PB,Mãe D'Água,1
+2502,Nordeste,MA,Alto Alegre do Pindaré,2
+2503,Nordeste,CE,Icaraí,1
+2504,Sudeste,MG,Arapuá,2
+2505,Centro-Oeste,MT,Santa Carmem,3
+2506,Sul,SC,Iporã do Oeste,2
+2507,Sudeste,MG,Barroso,2
+2508,Nordeste,RN,Messias Targino,1
+2509,Sudeste,MG,Costas,1
+2510,Sudeste,SP,Nossa Senhora do Remédio,1
+2511,Nordeste,AL,Maragogi,1
+2512,Nordeste,BA,Quixabeira,1
+2513,Nordeste,BA,Nordestina,1
+2514,Nordeste,BA,Mutuípe,2
+2515,Sudeste,MG,Presidente Olegário,6
+2516,Nordeste,PB,Capim,1
+2517,Sudeste,MG,Rio Pomba,2
+2518,Sul,RS,Ibiaçá,3
+2519,Nordeste,PE,São José da Coroa Grande,4
+2520,Sudeste,MG,Açucena,3
+2521,Nordeste,MA,Matinha,1
+2522,Sul,PR,Tamarana,2
+2523,Sul,PR,Céu Azul,1
+2524,Nordeste,BA,Itiúba,1
+2525,Sudeste,ES,Laranja da Terra,3
+2526,Sul,PR,São Jorge do Ivaí,1
+2527,Nordeste,BA,Ibirapuã,1
+2528,Nordeste,PI,Bocaina,3
+2529,Sudeste,SP,Bernardino de Campos,1
+2530,Sudeste,SP,Promissão,5
+2531,Sul,PR,Maripá,2
+2532,Centro-Oeste,GO,Araçu,1
+2533,Centro-Oeste,MS,Porto Murtinho,1
+2534,Sul,RS,Terra de Areia,2
+2535,Norte,AM,Rio Preto da Eva,1
+2536,Sudeste,SP,Quatá,1
+2537,Sul,RS,Sananduva,1
+2538,Sul,SC,Maracajá,2
+2539,Nordeste,PB,Jericó,1
+2540,Nordeste,BA,Boa Nova,2
+2541,Nordeste,RN,Baía Formosa,1
+2542,Sudeste,SP,Martinópolis,2
+2543,Sul,SC,Rio Fortuna,2
+2544,Sudeste,MG,São João Nepomuceno,7
+2545,Sudeste,MG,Monte Belo,1
+2546,Nordeste,MA,Zé Doca,2
+2547,Sul,RS,Ipê,1
+2548,Nordeste,BA,Tucano,2
+2549,Norte,RO,Presidente Médici,1
+2550,Nordeste,PE,Machados,1
+2551,Sul,PR,Marilândia do Sul,1
+2552,Nordeste,RN,Extremoz,2
+2553,Sudeste,MG,Itumirim,3
+2554,Norte,PA,Acará,1
+2555,Nordeste,PE,Pesqueira,4
+2556,Nordeste,PB,Mogeiro,1
+2557,Sudeste,MG,Canaã,1
+2558,Nordeste,BA,Seabra,4
+2559,Sudeste,MG,Água Comprida,1
+2560,Nordeste,BA,Utinga,2
+2561,Sudeste,MG,Turvolândia,2
+2562,Sudeste,MG,Itabirinha,1
+2563,Sudeste,SP,Itapura,1
+2564,Sudeste,MG,Minas Novas,2
+2565,Centro-Oeste,MS,Rochedo,2
+2566,Sudeste,MG,Congonhal,2
+2567,Sudeste,RJ,Carapebus,3
+2568,Sudeste,MG,Cruzília,1
+2569,Sudeste,SP,Tanabi,3
+2570,Sudeste,SP,Irapuã,3
+2571,Sul,RS,Ibarama,1
+2572,Nordeste,PE,Lagoa do Itaenga,2
+2573,Sudeste,SP,Anhumas,1
+2574,Sudeste,MG,Coronel Pacheco,1
+2575,Sul,PR,Rondon,1
+2576,Sudeste,MG,Igaratinga,1
+2577,Sudeste,MG,Capitão Andrade,1
+2578,Sudeste,MG,São Sebastião da Bela Vista,1
+2579,Nordeste,BA,Elísio Medrado,2
+2580,Nordeste,BA,Cachoeira,2
+2581,Nordeste,PE,Ouricuri,2
+2582,Nordeste,BA,Ibitiara,1
+2583,Sudeste,MG,Arinos,1
+2584,Sudeste,RJ,Sumidouro,2
+2585,Sul,PR,Arapuã,1
+2586,Sudeste,SP,Analândia,1
+2587,Nordeste,RN,Santa Cruz,4
+2588,Sudeste,MG,São João do Paraíso,2
+2589,Nordeste,BA,São Gonçalo dos Campos,1
+2590,Sudeste,MG,Rio Manso,1
+2591,Sudeste,MG,São Romão,1
+2592,Sudeste,MG,Moema,1
+2593,Nordeste,PB,Diamante,1
+2594,Norte,PA,Nova Timboteua,1
+2595,Nordeste,BA,Ibiajara,1
+2596,Sudeste,SP,Alambari,1
+2597,Centro-Oeste,GO,Santa Rita do Araguaia,1
+2598,Sudeste,RJ,Banquete,1
+2599,Sul,RS,Maquiné,1
+2600,Nordeste,PI,Miguel Alves,2
+2601,Sul,SC,Águas Frias,1
+2602,Sul,SC,Águas Mornas,6
+2603,Norte,AC,Marechal Thaumaturgo,1
+2604,Sudeste,RJ,Comendador Levy Gasparian,2
+2605,Sul,SC,Lebon Régis,1
+2606,Sul,PR,Nova Santa Bárbara,2
+2607,Centro-Oeste,MS,Lagoa Bonita,1
+2608,Nordeste,CE,Itarema,3
+2609,Sul,SC,Vargeão,1
+2610,Sudeste,MG,Urucuia,1
+2611,Sudeste,MG,Planura,1
+2612,Sudeste,MG,Fortaleza de Minas,1
+2613,Sudeste,MG,Itaguara,1
+2614,Sudeste,MG,Matias Barbosa,2
+2615,Sudeste,SP,Estiva Gerbi,5
+2616,Sul,PR,Alto Piquiri,1
+2617,Sudeste,SP,Jarinu,15
+2618,Centro-Oeste,GO,Ouro Verde de Goiás,1
+2619,Centro-Oeste,GO,Domiciano Ribeiro,1
+2620,Sudeste,SP,Iepê,2
+2621,Sudeste,MG,Monte Verde,2
+2622,Centro-Oeste,MT,Torixoréu,1
+2623,Nordeste,BA,Coronel João Sá,1
+2624,Nordeste,MA,Vitorino Freire,1
+2625,Sudeste,MG,Pingo-D'Água,1
+2626,Sudeste,MG,Olímpio Noronha,3
+2627,Sul,PR,Ilha do Mel,1
+2628,Nordeste,BA,Barra Grande,1
+2629,Centro-Oeste,MT,Ipiranga do Norte,3
+2630,Sul,PR,Balsa Nova,1
+2631,Norte,RO,Monte Negro,1
+2632,Nordeste,RN,Cruzeta,1
+2633,Sudeste,MG,São Miguel do Anta,1
+2634,Norte,AM,Barreirinha,1
+2635,Sul,RS,Encruzilhada do Sul,5
+2636,Sudeste,ES,Pedro Canário,1
+2637,Nordeste,BA,Planaltino,1
+2638,Nordeste,BA,Boninal,1
+2639,Sudeste,MG,Mar de Espanha,1
+2640,Sudeste,MG,Desterro de Entre Rios,2
+2641,Nordeste,BA,Retirolândia,1
+2642,Sul,RS,Mostardas,2
+2643,Sudeste,MG,Itutinga,1
+2644,Sudeste,SP,Irapuru,1
+2645,Nordeste,PB,Sumé,1
+2646,Nordeste,PI,Luís Correia,1
+2647,Sul,SC,Monte Castelo,1
+2648,Nordeste,PB,Mulungu,1
+2649,Nordeste,CE,Cariús,1
+2650,Nordeste,PI,Água Branca,4
+2651,Sudeste,SP,Getulina,1
+2652,Sul,RS,São João do Polêsine,2
+2653,Nordeste,CE,Aningás,1
+2654,Sul,PR,Mariluz,1
+2655,Sul,PR,Nova América da Colina,2
+2656,Norte,PA,Santa Isabel do Pará,2
+2657,Nordeste,MA,São Pedro da Água Branca,1
+2658,Sudeste,SP,Salto Grande,3
+2659,Sudeste,SP,Boracéia,1
+2660,Centro-Oeste,GO,Nova Glória,1
+2661,Centro-Oeste,MS,Jateí,1
+2662,Norte,PA,Bom Jesus do Tocantins,1
+2663,Sudeste,SP,Zacarias,1
+2664,Nordeste,BA,Mundo Novo,1
+2665,Sul,PR,Terra Boa,2
+2666,Sul,RS,Arroio do Padre,1
+2667,Sul,PR,Carbonera,1
+2668,Centro-Oeste,MT,Salto do Céu,1
+2669,Sul,RS,Presidente Lucena,2
+2670,Nordeste,MA,Coroatá,1
+2671,Sul,RS,Tabaí,2
+2672,Sul,RS,Mariana Pimentel,1
+2673,Norte,AM,Benjamin Constant,1
+2674,Sul,RS,Barra do Ribeiro,1
+2675,Nordeste,PE,Araçoiaba,1
+2676,Nordeste,MA,Grajaú,3
+2677,Nordeste,PE,Flores,1
+2678,Sudeste,RJ,Miracema,5
+2679,Sudeste,SP,Sales,1
+2680,Sudeste,RJ,Arrozal,1
+2681,Nordeste,PI,Guadalupe,1
+2682,Sudeste,MG,Mendes Pimentel,2
+2683,Nordeste,RN,Bento Fernandes,1
+2684,Sul,RS,Trindade do Sul,1
+2685,Norte,AM,Carauari,1
+2686,Norte,AM,Iranduba,3
+2687,Sudeste,MG,Águas Vermelhas,1
+2688,Sudeste,SP,Piquete,1
+2689,Nordeste,CE,Antônio Diogo,1
+2690,Sul,RS,Santo Cristo,2
+2691,Sul,PR,Sede Alvorada,1
+2692,Sudeste,MG,Baldim,1
+2693,Centro-Oeste,GO,Serranópolis,1
+2694,Sudeste,RJ,Santo Antônio de Pádua,5
+2695,Sudeste,ES,Alto Mutum Preto,1
+2696,Sudeste,ES,Mimoso do Sul,2
+2697,Sudeste,SP,Paraíso,1
+2698,Nordeste,MA,São Mateus do Maranhão,1
+2699,Sul,SC,Pedras Grandes,2
+2700,Sudeste,MG,Santo Antônio do Itambé,1
+2701,Sudeste,MG,Senhora dos Remédios,2
+2702,Sudeste,MG,Congonhas do Norte,3
+2703,Nordeste,PE,Santa Maria da Boa Vista,2
+2704,Sul,RS,Arroio do Sal,3
+2705,Sul,PR,Porecatu,2
+2706,Nordeste,MA,São João dos Patos,1
+2707,Nordeste,CE,Jaguaruana,3
+2708,Sudeste,MG,Lontra,1
+2709,Sudeste,SP,Roberto,1
+2710,Sul,RS,São José do Norte,2
+2711,Sudeste,MG,Couto de Magalhães de Minas,1
+2712,Centro-Oeste,MT,Apiacás,1
+2713,Nordeste,PE,Inajá,3
+2714,Sul,RS,Três Arroios,1
+2715,Sul,RS,São Nicolau,2
+2716,Nordeste,PE,Ilha de Itamaracá,2
+2717,Sul,SC,Ascurra,1
+2718,Nordeste,BA,Rio do Antônio,2
+2719,Sudeste,MG,Pequi,1
+2720,Nordeste,RN,Ielmo Marinho,1
+2721,Nordeste,CE,Orós,1
+2722,Sul,RS,Campina das Missões,1
+2723,Sul,PR,Rio Bom,1
+2724,Sudeste,ES,Vila Valério,1
+2725,Nordeste,BA,Guaratinga,1
+2726,Nordeste,BA,Lapão,1
+2727,Nordeste,MA,Riachão,1
+2728,Centro-Oeste,MT,Serra Nova Dourada,1
+2729,Sudeste,MG,Aguanil,1
+2730,Centro-Oeste,MT,Feliz Natal,1
+2731,Sudeste,ES,Montanha,2
+2732,Sudeste,MG,Conquista,1
+2733,Nordeste,AL,Penedo,1
+2734,Sudeste,RJ,Lídice,2
+2735,Sul,SC,São Joaquim,2
+2736,Sul,PR,Kaloré,1
+2737,Norte,TO,Porto Alegre do Tocantins,1
+2738,Sudeste,MG,Passa Vinte,1
+2739,Sul,PR,Curiúva,1
+2740,Nordeste,BA,Igaporã,2
+2741,Nordeste,PI,Monsenhor Gil,1
+2742,Nordeste,MA,João Lisboa,1
+2743,Sudeste,SP,Nova Europa,3
+2744,Nordeste,RN,Caraúbas,3
+2745,Nordeste,PB,Pilões,1
+2746,Sul,RS,Herval,1
+2747,Nordeste,PI,Luzilândia,1
+2748,Sudeste,MG,Diogo de Vasconcelos,2
+2749,Nordeste,PB,Remígio,1
+2750,Sul,SC,Ipira,1
+2751,Nordeste,PI,Nossa Senhora de Nazaré,1
+2752,Nordeste,PE,Gameleira,1
+2753,Nordeste,BA,Nazaré,5
+2754,Nordeste,PB,Gado Bravo,1
+2755,Nordeste,BA,Andorinha,1
+2756,Nordeste,PE,Lagoa do Carro,1
+2757,Nordeste,BA,Tabocas do Brejo Velho,1
+2758,Sudeste,RJ,Conceição de Jacareí,1
+2759,Nordeste,PI,Prata do Piauí,1
+2760,Norte,TO,Peixe,1
+2761,Sudeste,MG,Astolfo Dutra,1
+2762,Nordeste,PE,Tuparetama,1
+2763,Sul,PR,Formosa do Oeste,2
+2764,Sudeste,SP,Ipiguá,1
+2765,Centro-Oeste,MS,Batayporã,1
+2766,Centro-Oeste,GO,Sanclerlândia,2
+2767,Sudeste,SP,Guzolândia,1
+2768,Centro-Oeste,GO,Paranaiguara,1
+2769,Sul,RS,Arvorezinha,2
+2770,Sudeste,SP,Areiópolis,2
+2771,Sudeste,MG,Bom Repouso,1
+2772,Sudeste,MG,Silvianópolis,1
+2773,Sudeste,MG,Cabo Verde,1
+2774,Nordeste,PI,Manoel Emídio,1
+2775,Centro-Oeste,MT,Alto Araguaia,3
+2776,Sudeste,SP,Borebi,1
+2777,Sudeste,MG,Córrego do Bom Jesus,2
+2778,Sul,SC,Santa Terezinha do Progresso,1
+2779,Sul,SC,Treviso,1
+2780,Sudeste,SP,Alfredo Marcondes,1
+2781,Norte,RR,Novo Paraíso,1
+2782,Nordeste,PE,Jataúba,1
+2783,Sudeste,ES,Aghá,1
+2784,Nordeste,BA,São Sebastião do Passé,2
+2785,Sudeste,SP,Tejupá,1
+2786,Nordeste,AL,Murici,1
+2787,Nordeste,SE,Salgado,1
+2788,Sul,RS,Boa Vista do Sul,1
+2789,Sudeste,MG,Coqueiral,1
+2790,Sul,PR,Boa Vista da Aparecida,2
+2791,Sudeste,SP,Indaiá do Aguapeí,1
+2792,Centro-Oeste,MT,Cláudia,2
+2793,Sul,RS,Ibiraiaras,1
+2794,Sudeste,RJ,Vila Muriqui,2
+2795,Nordeste,CE,Milagres,1
+2796,Nordeste,PI,São Miguel do Tapuio,1
+2797,Nordeste,PE,Lajedo,1
+2798,Sul,RS,Nova Alvorada,1
+2799,Centro-Oeste,GO,Simolândia,1
+2800,Nordeste,BA,Barro Preto,1
+2801,Sul,RS,Victor Graeff,1
+2802,Sudeste,SP,Indiana,2
+2803,Sudeste,MG,Pitangui,1
+2804,Nordeste,MA,Araioses,1
+2805,Nordeste,CE,Camocim,3
+2806,Sudeste,MG,Avaí do Jacinto,1
+2807,Sul,PR,Enéas Marques,1
+2808,Norte,TO,Colméia,2
+2809,Nordeste,PE,Panelas,1
+2810,Sudeste,MG,Serrania,2
+2811,Centro-Oeste,MT,Acorizal,1
+2812,Sudeste,MG,Sericita,1
+2813,Nordeste,RN,Campo Redondo,1
+2814,Centro-Oeste,GO,Goiandira,1
+2815,Centro-Oeste,MS,Itaquiraí,1
+2816,Sudeste,MG,Coluna,1
+2817,Sudeste,MG,Simão Pereira,1
+2818,Sul,SC,Morro Grande,1
+2819,Sudeste,MG,São José do Goiabal,1
+2820,Norte,AM,Beruri,1
+2821,Sul,PR,Sertaneja,1
+2822,Centro-Oeste,MS,Antônio João,3
+2823,Sudeste,SP,Aramina,6
+2824,Sudeste,MG,Rio Espera,1
+2825,Norte,PA,Uruará,2
+2826,Nordeste,BA,Campo Alegre de Lourdes,2
+2827,Nordeste,CE,Penaforte,1
+2828,Sul,SC,Armazém,2
+2829,Sul,RS,Nova Bréscia,2
+2830,Sul,RS,Linha Porto Alegre,1
+2831,Sudeste,MG,Monsenhor Paulo,2
+2832,Nordeste,PB,Aroeiras,1
+2833,Sudeste,SP,Rincão,1
+2834,Nordeste,BA,Pindaí,1
+2835,Sul,SC,Iomerê,1
+2836,Sudeste,SP,Icém,1
+2837,Sudeste,MG,Ilicínea,1
+2838,Nordeste,PE,Sairé,1
+2839,Sudeste,MG,Rio Acima,2
+2840,Sul,PR,Lupionópolis,1
+2841,Norte,AM,Tapauá,1
+2842,Sudeste,SP,Corumbataí,1
+2843,Sul,RS,Balneário Pinhal,1
+2844,Sudeste,MG,São Sebastião do Rio Verde,1
+2845,Sudeste,MG,São Francisco de Sales,1
+2846,Sudeste,SP,Lucianópolis,1
+2847,Sul,RS,Erval Grande,1
+2848,Sudeste,SP,Parapuã,1
+2849,Sudeste,MG,Paraguaçu,2
+2850,Centro-Oeste,GO,Corumbá de Goiás,1
+2851,Norte,RO,Candeias do Jamari,1
+2852,Sudeste,MG,Iapu,1
+2853,Sudeste,SP,Ibirá,1
+2854,Sudeste,SP,Reginópolis,1
+2855,Nordeste,BA,Brotas de Macaúbas,1
+2856,Sul,PR,Campo do Tenente,2
+2857,Sul,RS,São Jerônimo,2
+2858,Sul,PR,São Carlos do Ivaí,1
+2859,Sudeste,MG,Alagoa,1
+2860,Sudeste,MG,Coronel Murta,1
+2861,Sudeste,SP,Cosmorama,1
+2862,Sudeste,MG,Maripá de Minas,1
+2863,Sudeste,MG,Tiros,1
+2864,Sul,PR,Santo Antônio do Caiuá,1
+2865,Sul,PR,Loanda,2
+2866,Nordeste,MA,Carutapera,1
+2867,Sudeste,MG,Caraí,1
+2868,Nordeste,BA,Ubatã,1
+2869,Sudeste,MG,Mercês,1
+2870,Nordeste,MA,Pinheiro,2
+2871,Centro-Oeste,MT,Rosário Oeste,2
+2872,Centro-Oeste,GO,Itaguaru,2
+2873,Sul,SC,Bom Retiro,2
+2874,Sul,SC,Balneário Arroio do Silva,2
+2875,Nordeste,CE,Banabuiú,2
+2876,Sudeste,MG,Carbonita,1
+2877,Sudeste,SP,Sabino,1
+2878,Sudeste,MG,Santana da Vargem,1
+2879,Sudeste,SP,Avanhandava,1
+2880,Nordeste,CE,Tamboril,1
+2881,Nordeste,CE,Croatá,1
+2882,Nordeste,BA,Barra do Mendes,2
+2883,Sudeste,MG,Malacacheta,3
+2884,Nordeste,PE,São Benedito do Sul,1
+2885,Nordeste,AL,Estrela de Alagoas,2
+2886,Nordeste,BA,Nova Fátima,1
+2887,Nordeste,PI,Novo Santo Antônio,1
+2888,Nordeste,PB,São Mamede,2
+2889,Norte,TO,Augustinópolis,2
+2890,Sul,SC,Guarujá do Sul,1
+2891,Nordeste,BA,Inhambupe,1
+2892,Sul,SC,Tangará,3
+2893,Nordeste,PB,Cruz do Espírito Santo,2
+2894,Sudeste,SP,Itajobi,1
+2895,Sudeste,MG,São Pedro do Avaí,2
+2896,Norte,PA,Portel,1
+2897,Sudeste,MG,Conceição dos Ouros,1
+2898,Nordeste,RN,Martins,1
+2899,Sul,RS,Cidreira,4
+2900,Sudeste,MG,Ferros,1
+2901,Norte,PA,Gurupá,1
+2902,Sul,SC,Abelardo Luz,1
+2903,Nordeste,BA,Itarantim,1
+2904,Sudeste,SP,Santo Antônio do Pinhal,2
+2905,Nordeste,BA,Aporá,1
+2906,Sudeste,ES,Celina,1
+2907,Sul,RS,Selbach,1
+2908,Centro-Oeste,GO,Itajá,2
+2909,Sudeste,MG,Nepomuceno,4
+2910,Norte,RO,Nova Dimensão,1
+2911,Sudeste,SP,Mirassolândia,1
+2912,Sul,RS,Nicolau Vergueiro,1
+2913,Sudeste,SP,Três Fronteiras,1
+2914,Nordeste,CE,Horizonte,2
+2915,Sul,RS,Progresso,1
+2916,Nordeste,MA,Godofredo Viana,1
+2917,Nordeste,BA,Cândido Sales,2
+2918,Nordeste,BA,Ibiassucê,1
+2919,Sul,PR,Douradina,3
+2920,Sudeste,RJ,Travessão,1
+2921,Nordeste,PE,Tamandaré,1
+2922,Nordeste,MA,Arari,1
+2923,Centro-Oeste,GO,Rubiataba,1
+2924,Norte,TO,Silvanópolis,2
+2925,Sudeste,RJ,Santa Isabel do Rio Preto,1
+2926,Nordeste,RN,Pedro Avelino,1
+2927,Sudeste,SP,Marinópolis,1
+2928,Sul,SC,Apiúna,1
+2929,Sul,SC,Nova Trento,2
+2930,Nordeste,MA,Arame,1
+2931,Sul,SC,Faxinal dos Guedes,1
+2932,Nordeste,AL,Traipu,1
+2933,Centro-Oeste,GO,Bela Vista de Goiás,2
+2934,Sudeste,MG,Miradouro,2
+2935,Sudeste,SP,Santa Mercedes,1
+2936,Nordeste,PI,Santo Antônio dos Milagres,1
+2937,Nordeste,PI,Simões,1
+2938,Sul,RS,Barão do Triunfo,1
+2939,Sul,RS,São Valentim,1
+2940,Sul,SC,Macieira,1
+2941,Nordeste,CE,Abaiara,1
+2942,Sudeste,SP,Marcondésia,1
+2943,Sudeste,MG,Soledade de Minas,2
+2944,Norte,PA,Dom Eliseu,2
+2945,Norte,RO,Alvorada D'Oeste,1
+2946,Norte,AM,Maraã,1
+2947,Sul,RS,Nova Hartz,1
+2948,Sudeste,MG,Centralina,1
+2949,Sul,RS,Butiá,2
+2950,Norte,PA,Anapu,1
+2951,Nordeste,MA,Nova Olinda do Maranhão,2
+2952,Sudeste,MG,Brazópolis,3
+2953,Sudeste,MG,Peçanha,1
+2954,Norte,RO,Vista Alegre do Abunã,1
+2955,Nordeste,BA,Canudos,1
+2956,Sudeste,MG,Cássia,1
+2957,Sudeste,MG,Espinosa,2
+2958,Centro-Oeste,GO,São João D'Aliança,1
+2959,Nordeste,PE,Fazenda Nova,1
+2960,Nordeste,PE,Bom Conselho,1
+2961,Nordeste,BA,Água Fria,1
+2962,Centro-Oeste,MT,Poconé,2
+2963,Sul,RS,Crissiumal,1
+2964,Norte,AM,Atalaia do Norte,1
+2965,Centro-Oeste,MS,Miranda,2
+2966,Sudeste,SP,Iacanga,2
+2967,Sudeste,SP,Brejo Alegre,1
+2968,Nordeste,BA,Candeal,1
+2969,Norte,RR,Mucajaí,1
+2970,Nordeste,CE,Pereiro,2
+2971,Nordeste,BA,Igrapiúna,1
+2972,Nordeste,CE,Forquilha,3
+2973,Sul,PR,Siqueira Campos,3
+2974,Nordeste,PE,Casinhas,1
+2975,Sul,SC,Rancho Queimado,1
+2976,Nordeste,SE,Tomar do Geru,1
+2977,Sul,RS,Passo Novo,1
+2978,Sul,RS,Santa Maria do Herval,1
+2979,Sudeste,MG,Umburatiba,1
+2980,Norte,PA,Breves,1
+2981,Nordeste,CE,Jaguaribara,1
+2982,Nordeste,BA,Presidente Tancredo Neves,1
+2983,Norte,AP,Tartarugalzinho,1
+2984,Nordeste,PE,Tracunhaém,1
+2985,Sudeste,MG,Alfredo Vasconcelos,1
+2986,Sul,PR,Ribeirão do Pinhal,1
+2987,Nordeste,PE,Venturosa,1
+2988,Nordeste,PI,Colônia do Gurguéia,1
+2989,Sudeste,MG,Piedade de Caratinga,1
+2990,Sul,PR,Antonina,2
+2991,Norte,AM,Novo Airão,1
+2992,Nordeste,RN,Jaçanã,4
+2993,Sul,RS,General Câmara,1
+2994,Norte,PA,Santa Bárbara do Pará,1
+2995,Sudeste,MG,Francisco Sá,2
+2996,Sul,SC,Ponte Serrada,1
+2997,Nordeste,RN,Espírito Santo,1
+2998,Sudeste,ES,São José de Fruteiras,1
+2999,Sudeste,SP,São José do Barreiro,2
+3000,Sul,SC,Luzerna,1
+3001,Sudeste,MG,Ibiraci,2
+3002,Nordeste,MA,Anapurus,1
+3003,Nordeste,AL,Taquarana,1
+3004,Sudeste,MG,Santo Antônio do Grama,1
+3005,Nordeste,BA,Itatim,1
+3006,Nordeste,MA,Bom Jesus das Selvas,1
+3007,Sudeste,RJ,Visconde de Mauá,1
+3008,Sudeste,SP,Rubinéia,2
+3009,Sudeste,MG,São Pedro do Suaçuí,1
+3010,Sudeste,SP,Barão de Antonina,1
+3011,Nordeste,MA,Vargem Grande,1
+3012,Nordeste,SE,Santo Amaro das Brotas,1
+3013,Sudeste,SP,Santa Ernestina,1
+3014,Sul,RS,Santo Augusto,1
+3015,Norte,AM,Envira,1
+3016,Norte,PA,Capitão Poço,1
+3017,Nordeste,PI,Castelo do Piauí,1
+3018,Sul,RS,Nonoai,1
+3019,Centro-Oeste,GO,Damolândia,1
+3020,Sudeste,SP,Dourado,1
+3021,Nordeste,RN,Senador Georgino Avelino,1
+3022,Nordeste,PB,Cuité,1
+3023,Sudeste,MG,Santana do Riacho,2
+3024,Nordeste,RN,Parazinho,2
+3025,Sudeste,MG,Palmital dos Carvalhos,1
+3026,Nordeste,BA,São José do Jacuípe,1
+3027,Sudeste,MG,Córrego Danta,1
+3028,Sudeste,MG,Tupaciguara,1
+3029,Sudeste,MG,Guidoval,1
+3030,Norte,RR,Normandia,1
+3031,Norte,PA,Moju,1
+3032,Norte,RO,Seringueiras,1
+3033,Nordeste,CE,Guaiúba,1
+3034,Norte,TO,Brejinho de Nazaré,1
+3035,Sudeste,MG,Santa Rita do Ibitipoca,1
+3036,Sudeste,MG,Oratórios,1
+3037,Nordeste,MA,Cururupu,1
+3038,Nordeste,CE,Macaraú,1
+3039,Nordeste,PB,Arara,2
+3040,Sudeste,MG,Itaipé,1
+3041,Nordeste,RN,Senador Elói de Souza,1
+3042,Sudeste,MG,Machacalis,1
+3043,Nordeste,RN,Boa Saúde,1
+3044,Sudeste,RJ,Trajano de Moraes,1
+3045,Nordeste,PI,Porto,1
+3046,Sudeste,MG,Rubim,1
+3047,Sudeste,MG,Senhora das Dores,1
+3048,Sul,PR,Ampére,2
+3049,Nordeste,CE,Fortim,1
+3050,Nordeste,PB,Juarez Távora,1
+3051,Sudeste,MG,Tumiritinga,1
+3052,Sudeste,MG,Joaíma,2
+3053,Sul,SC,Schroeder,1
+3054,Nordeste,PB,Salgado de São Félix,1
+3055,Nordeste,PE,Carnaíba,1
+3056,Sul,PR,Porto Amazonas,1
+3057,Centro-Oeste,GO,Anicuns,1
+3058,Sudeste,MG,Boa Vista de Minas,1
+3059,Nordeste,PB,Rio Tinto,1
+3060,Sudeste,SP,Charqueada,1
+3061,Sudeste,RJ,Sapucaia,1
+3062,Sudeste,MG,São José da Barra,1
+3063,Nordeste,BA,Cocos,1
+3064,Sul,SC,Santa Cecília,1
+3065,Nordeste,PE,Palmares,3
+3066,Sul,SC,Bom Jardim da Serra,1
+3067,Sudeste,SP,Lavínia,1
+3068,Sudeste,SP,Mendonça,1
+3069,Centro-Oeste,GO,São Luiz do Norte,1
+3070,Sudeste,MG,Brasilândia de Minas,1
+3071,Sudeste,MG,Conceição do Pará,1
+3072,Sul,SC,Rio dos Cedros,1
+3073,Norte,TO,Conceição do Tocantins,1
+3074,Nordeste,PE,Mirandiba,2
+3075,Centro-Oeste,MT,Passagem da Conceição,1
+3076,Nordeste,CE,Altaneira,1
+3077,Sul,SC,Irineópolis,1
+3078,Sudeste,MG,Araújos,1
+3079,Nordeste,BA,Núcleo Residencial Pilar,1
+3080,Nordeste,BA,Itaguaçu da Bahia,2
+3081,Nordeste,PI,Conceição do Canindé,1
+3082,Nordeste,CE,Mucambo,2
+3083,Sudeste,RJ,Japuíba,1
+3084,Nordeste,PE,Chã de Alegria,1
+3085,Sul,RS,Vale do Sol,2
+3086,Nordeste,PB,Monteiro,1
+3087,Sudeste,SP,Pedro de Toledo,1
+3088,Sul,PR,Santa Margarida,2
+3089,Centro-Oeste,MS,Sete Quedas,1
+3090,Centro-Oeste,MT,Terra Nova do Norte,1
+3091,Sudeste,MG,Bonfim,1
+3092,Nordeste,CE,Novo Oriente,1
+3093,Sudeste,SP,Quadra,1
+3094,Sudeste,SP,São Pedro do Turvo,1
+3095,Sudeste,SP,Santa Adélia,1
+3096,Sudeste,ES,Água Doce do Norte,1
+3097,Sudeste,SP,Oriente,1
+3098,Sudeste,MG,Caputira,1
+3099,Nordeste,CE,Aiuaba,1
+3100,Sul,PR,Ilha dos Valadares,1
+3101,Sul,SC,Caxambu do Sul,1
+3102,Nordeste,BA,Buritirama,1
+3103,Nordeste,BA,Adustina,1
+3104,Sudeste,MG,Caldas,1
+3105,Sudeste,SP,Bento de Abreu,1
+3106,Sul,SC,Matos Costa,1
+3107,Nordeste,RN,São Miguel do Gostoso,1
+3108,Sudeste,MG,Limeira do Oeste,1
+3109,Sudeste,RJ,Quatis,1
+3110,Sudeste,MG,Estrela Dalva,1
+3111,Sudeste,MG,São José dos Lopes,1
+3112,Sudeste,ES,São Roque do Canaã,2
+3113,Nordeste,SE,Umbaúba,1
+3114,Sudeste,MG,Brasília de Minas,1
+3115,Sudeste,SP,Campos Novos Paulista,1
+3116,Nordeste,MA,Bom Lugar,1
+3117,Sudeste,RJ,Laje do Muriaé,1
+3118,Sudeste,MG,Munhoz,1
+3119,Nordeste,BA,Roda Velha,1
+3120,Sudeste,MG,Resplendor,1
+3121,Sul,RS,Nova Palma,1
+3122,Sudeste,MG,Resende Costa,1
+3123,Sul,RS,Westfalia,1
+3124,Nordeste,CE,Quiterianópolis,1
+3125,Sudeste,MG,Conceição de Ipanema,1
+3126,Nordeste,RN,Coronel Ezequiel,1
+3127,Sul,PR,Joaquim Távora,1
+3128,Nordeste,SE,Neópolis,1
+3129,Sudeste,ES,Vila Pavão,1
+3130,Nordeste,CE,Solonópole,1
+3131,Sudeste,MG,Santa Bárbara do Tugúrio,1
+3132,Sul,RS,Ametista do Sul,1
+3133,Sudeste,MG,Passa Quatro,1
+3134,Sudeste,MG,São Gonçalo do Pará,1
+3135,Sudeste,MG,Augusto de Lima,1
+3136,Sudeste,MG,Campina Verde,1
+3137,Nordeste,AL,Piaçabuçu,1
+3138,Sudeste,ES,Alto Rio Novo,1
+3139,Sudeste,MG,Almeida,1
+3140,Sul,RS,Morungava,1
+3141,Nordeste,CE,Varjota,1
+3142,Sul,PR,Nova Aurora,1
+3143,Sul,RS,Jaguari,1
+3144,Sul,PR,Moreira Sales,1
+3145,Nordeste,BA,Umburanas,2
+3146,Sudeste,SP,São Francisco Xavier,1
+3147,Sudeste,MG,Caparaó,1
