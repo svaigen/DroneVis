@@ -95,7 +95,7 @@ def modeloCor(modelo):
     elif(modelo == 'Phantom 2'):
         return "#BA55D3"
     else:
-        print(modelo)
+        # print(modelo)
         return("#000000")
     
 

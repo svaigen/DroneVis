@@ -1,5 +1,6 @@
 import plotly.express as px
 import plotly.graph_objects as go
+import plotly.io as pio
 import pandas as pd
 import util
 import dash
@@ -66,11 +67,12 @@ if __name__ == '__main__':
     fig.add_trace(go.Bar(x= data_filtered['Drones cadastrados'], y= data['Ramo'].unique(), name="2020", orientation='h',marker=dict(color="#BB9F06"), hovertemplate = "drones cadastrados: %{hovertext}<extra></extra>", hovertext = data_filtered['Drones cadastrados']))
     fig.update_layout(title='Drones cadastrados ao longo dos anos por ramo', barmode='stack', yaxis={'categoryorder':'sum ascending', 'title' : 'Ramo'}, xaxis={'title': 'Drones Cadastrados'}, height=700)
     fig.update_xaxes(range=[0,56000])
+    pio.write_html(fig, file="fig.html", auto_open=True)
 
-    app = dash.Dash()
-    app.layout = html.Div([
-        dcc.Graph(id='rank1', figure=fig)
-    ]
-    )
+    # app = dash.Dash()
+    # app.layout = html.Div([
+    #     dcc.Graph(id='rank1', figure=fig)
+    # ]
+    # )
 
-    app.run_server(debug=False, use_reloader=True)
+    # app.run_server(debug=False, use_reloader=True)
