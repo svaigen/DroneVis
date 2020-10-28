@@ -5,6 +5,7 @@ import dash
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
+import plotly
 
 df = pd.read_csv('../base_dados/treeMap.csv')
 
@@ -58,10 +59,6 @@ fig.add_trace(go.Treemap(
     maxdepth=2
     ))
 
-fig.update_layout(margin=dict(t=50, b=50, r=50, l=50), title="Número de drones por região, estado e cidade",height=700)
+fig.update_layout(margin=dict(t=15, b=15, r=15, l=15), autosize=True)
 
-app = dash.Dash()
-app.layout = html.Div([
-dcc.Graph(id='rank1', figure=fig)])
-
-app.run_server(debug=False, use_reloader=True)
+plotly.io.write_html(fig, file="./../website/webviews/treemap-proprietarios.html", full_html=False, default_height="80%")

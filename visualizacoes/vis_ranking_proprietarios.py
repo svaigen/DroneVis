@@ -6,6 +6,7 @@ import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
 import util
+import plotly
 
 def prepareData():
     allData,inscricao,validade,operador,tipo_pessoa,tipo_uso,fabricante,modelo,numero_serie,peso_maximo,cidade,estado,ramo = util.leituraDados()
@@ -111,10 +112,6 @@ if __name__ == '__main__':
         maxdepth=2
         ))
 
-    fig.update_layout(margin=dict(t=50, b=50, r=50, l=50), title="Proprietários com o maior número de drones cadastrados por estado",height=700)
+    fig.update_layout(margin=dict(t=15, b=15, r=15, l=15),  autosize=True)
 
-    app = dash.Dash()
-    app.layout = html.Div([
-    dcc.Graph(id='rank1', figure=fig)])
-
-    app.run_server(debug=False, use_reloader=True)
+    plotly.io.write_html(fig, file="./../website/webviews/treemap-proprietarios.html", full_html=False, default_height="80%")

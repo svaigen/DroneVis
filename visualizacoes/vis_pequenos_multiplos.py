@@ -6,11 +6,12 @@ import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
 import pandas as pd
+import plotly
 
 df = pd.read_csv('../base_dados/dadosPordia2.csv')
 fig = make_subplots(6, 5,subplot_titles=('Acre (AC)','Alagoas (AL)','Amapá (AP)','Amazonas (AM)','Bahia (BA)','Ceará (CE)','Espírito Santo (ES)',
 'Goiás (GO)','Maranhão (MA)','Mato Grosso (MT)','Mato Grosso do Sul (MS)','Minas Gerais (MG)','Pará (PA)','Paraíba (PB)', 
-'Paraná (PR)','Pernambuco (PE)','Piauí (PI)','Rio de Janeiro (RJ)','Rio Grande do Norte (RN)','Rio Grande do Sul (RS)','Rondônia (RO)',
+'Paraná (PR)','Pernambuco (PE)','Piauí (PI)','Rio de Janeiro (RJ)','Rio Grande Norte (RN)','Rio Grande Sul (RS)','Rondônia (RO)',
 'Roraima (RR)','Santa Catarina (SC)','São Paulo (SP)','Sergipe (SE)','Tocantins (TO)'))
 df_ordenado = df.sort_values(by='day')
 
@@ -126,11 +127,7 @@ fig.add_trace(go.Scatter(x=df_ordenado['day'].unique(), y=dff.estado, mode='line
 
 
 fig.update_xaxes(range=['2018-01-01','2020-01-07'],showgrid=False,visible=False)
-fig.update_layout(showlegend=False,template=None, height=800,title="Pequenos múltiplos da quantidade de drones cadastrados ao longo do tempo por estado")
+fig.update_layout(showlegend=False,template=None, autosize=True, margin={'t' : 30})
 fig.update_yaxes(range=[0,80],showgrid=False,visible=False)
 
-app = dash.Dash()
-app.layout = html.Div([
-dcc.Graph(id='rank1', figure=fig)])
-
-app.run_server(debug=False, use_reloader=True)
+plotly.io.write_html(fig, file="./../website/webviews/peqmul-drone.html", full_html=False, default_height="100%")
