@@ -1,3 +1,4 @@
+import plotly
 import plotly.graph_objects as go
 import dash
 import dash_core_components as dcc
@@ -400,8 +401,10 @@ fig.update_layout(
     ]
 )
 
-app = dash.Dash()
-app.layout = html.Div([
-dcc.Graph(id='rank1', figure=fig)])
+plotly.io.write_html(fig,"../website/webviews/vis_linha_qtd_drone.html",full_html=False)
 
-app.run_server(debug=False, use_reloader=True)
+# app = dash.Dash()
+# app.layout = html.Div([
+# dcc.Graph(id='rank1', figure=fig)])
+
+# app.run_server(debug=False, use_reloader=True)

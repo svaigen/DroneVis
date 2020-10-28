@@ -1,5 +1,6 @@
 import plotly.express as px
 import plotly.graph_objects as go
+import plotly.io as pio
 import pandas as pd
 import util
 import dash
@@ -68,10 +69,10 @@ if __name__ == '__main__':
     fig.update_layout(title='Ranking de drones cadastrados por ramo de atividade', barmode='stack', yaxis={'categoryorder':'sum ascending', 'title' : 'Ramo'}, xaxis={'title': 'Drones Cadastrados'}, height=700)
     fig.update_xaxes(range=[0,9000])
 
-    app = dash.Dash()
-    app.layout = html.Div([
-        dcc.Graph(id='rank1', figure=fig)
-    ]
-    )
+    # app = dash.Dash()
+    # app.layout = html.Div([
+    #     dcc.Graph(id='rank1', figure=fig)
+    # ]
+    # )
 
-    app.run_server(debug=False, use_reloader=True)
+    # app.run_server(debug=False, use_reloader=True)
