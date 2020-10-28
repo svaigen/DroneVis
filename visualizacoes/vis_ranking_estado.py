@@ -6,6 +6,7 @@ import dash
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
+import plotly
 
 class StatePerDrone:
     def __init__(self, sigla = None, totalDrones = None):
@@ -69,13 +70,7 @@ if __name__ == '__main__':
     fig.add_trace(go.Bar(x= data_filtered['Drones cadastrados'], y= data['Estado'].unique(), name="2019", orientation='h', marker=dict(color="#5AAA95"), hovertemplate = "drones cadastrados: %{hovertext}<extra></extra>", hovertext = data_filtered['Drones cadastrados']))
     data_filtered = data[data.Ano == "2020"]
     fig.add_trace(go.Bar(x= data_filtered['Drones cadastrados'], y= data['Estado'].unique(), name="2020", orientation='h', marker=dict(color="#BB9F06"), hovertemplate = "drones cadastrados: %{hovertext}<extra></extra>", hovertext = data_filtered['Drones cadastrados']))
-    fig.update_layout(title='Ranking de drones cadastrados ao longo dos anos por estado', barmode='stack', yaxis={'categoryorder':'sum ascending', 'title' : 'Estado'}, xaxis={'title' : 'Drones cadastrados'}, height=700)
+    fig.update_layout(barmode='stack', yaxis={'categoryorder':'sum ascending', 'title' : 'Estado'}, xaxis={'title' : 'Drones cadastrados'}, autosize=True, margin={'t' : 15})
     fig.update_xaxes(range=[0,27000])
 
-    app = dash.Dash()
-    app.layout = html.Div([
-        dcc.Graph(id='rank1', figure=fig)
-    ]
-    )
-
-    app.run_server(debug=False, use_reloader=True)
+    plotly.io.write_html(fig, file="./../website/webviews/rank-drone-estado-acumulado.html", full_html=False, default_height="80%")

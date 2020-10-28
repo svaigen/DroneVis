@@ -182,9 +182,7 @@ fig.add_trace(go.Scatter(
 
 
 # Set title
-fig.update_layout(
-    title_text="Número de drones cadastrados ao longo do tempo",height=700
-)
+
 
 # Add range slider
 fig.update_layout(
@@ -192,11 +190,11 @@ fig.update_layout(
         rangeselector=dict(
             buttons=list([
                 dict(count=1,
-                     label="1m",
+                     label="1 mês",
                      step="month",
                      stepmode="backward"),
                 dict(count=6,
-                     label="6m",
+                     label="6 meses",
                      step="month",
                      stepmode="backward"),
                 dict(count=1,
@@ -204,10 +202,11 @@ fig.update_layout(
                      step="year",
                      stepmode="todate"),
                 dict(count=1,
-                     label="1a",
+                     label="1 ano",
                      step="year",
                      stepmode="backward"),
-                dict(step="all")
+                dict(step="all",
+                     label="completo")
             ])
         ),
         rangeslider=dict(
@@ -224,7 +223,7 @@ fig.update_layout(
                 dict(
                     args=[{"visible": [True, False, False, False, False,False, False, False, False, False,False, False, False, False, False,False, False, False, False, False,False, False, False, False, False,False, False, False]},
                            {"title": "Número de drones cadastrados ao longo do tempo"}],
-                    label="All",
+                    label="Todos os estados",
                     method="update"
                 ),
                 dict(
@@ -391,20 +390,14 @@ fig.update_layout(
                 )
             ]),
             direction="down",
-            pad={"l":1350},
+            pad={"l":775},
             showactive=True,
          #   x=0.005,
             xanchor="left",
-            y=1.1,
+            y= 1.15,
             yanchor="top"
         ),
     ]
 )
 
-plotly.io.write_html(fig,"../website/webviews/vis_linha_qtd_drone.html",full_html=False)
-
-# app = dash.Dash()
-# app.layout = html.Div([
-# dcc.Graph(id='rank1', figure=fig)])
-
-# app.run_server(debug=False, use_reloader=True)
+plotly.io.write_html(fig, file="./../website/webviews/linha-drone.html", full_html=False, default_height="80%")

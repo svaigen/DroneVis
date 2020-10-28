@@ -91,6 +91,6 @@ for f in fab.keys():
 
 fig.update_layout(
                 #xaxis_title='Month',
-                yaxis_title='Número de drones cadastrados')
+                yaxis_title='Número de drones cadastrados', autosize=True, margin={'t' : 15})
 
 plotly.io.write_html(fig, file="./../website/webviews/area-fabricante.html", full_html=False, default_height="80%")

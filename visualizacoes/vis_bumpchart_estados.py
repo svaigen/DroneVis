@@ -8,6 +8,7 @@ import dash_html_components as html
 from dash.dependencies import Input, Output
 from datetime import datetime
 import random
+import plotly
 
 def dataByPeriodo(data):
   for d in data[1:]:
@@ -104,19 +105,14 @@ if __name__ == '__main__':
                     ))
       counter += 1
     fig.update_yaxes(type='category')
-    fig.update_layout(title='Ranking dos estados ao longo dos trimestres baseado no número de drones cadastrados',
-                      yaxis={'categoryorder':'category descending', 'title' : 'Posição no ranking'},
-                      xaxis={'title' : 'trimestre/ano'},
-                      height=800,
+    fig.update_layout(yaxis={'categoryorder':'category descending', 'title' : 'Posição no ranking'},
+                      xaxis={'title' : 'trimestre/ano'},                      
                       showlegend = False,
                       plot_bgcolor = "#ffffff",
-                      paper_bgcolor = "#ffffff"
+                      paper_bgcolor = "#ffffff",
+                      autosize=True, margin={'t' : 15}
                      )
-    
-    app = dash.Dash()
-    app.layout = html.Div([
-        dcc.Graph(id='rank1', figure=fig)
-    ]
-    )
 
-    app.run_server(debug=False, use_reloader=True)
+plotly.io.write_html(fig, file="./../website/webviews/bumpchart-estados.html", full_html=False, default_height="80%")
+    
+  
