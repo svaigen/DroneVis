@@ -82,7 +82,7 @@ if __name__ == '__main__':
     color_columns = ['drones']
     value_column = 'drones'
 
-    soma = 1974
+    soma = 77812
     
     df_all_trees = build_hierarchical_dataframe(df, levels, value_column, color_columns)
     average_score = df['drones'].sum() / soma 
