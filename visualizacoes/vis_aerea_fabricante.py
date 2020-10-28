@@ -6,6 +6,7 @@ import dash
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
+import plotly
 
 time = ['Jan (2018)','Fev (2018)','Mar (2018)','Abr (2018)','Mai (2018)', 'Jun (2018)', 'Jul (2018)', 'Ago (2018)', 'Set (2018)',
         'Out (2018)','Nov (2018)','Dez (2018)','Jan (2019)','Fev (2019)','Mar (2019)', 'Abr (2019)', 'Mai (2019)', 'Jun (2019)', 
@@ -88,11 +89,8 @@ for f in fab.keys():
     cont +=1
 
 
-fig.update_layout(title="Relação parte todo entre quantidade de drones e fabricante",
+fig.update_layout(
                 #xaxis_title='Month',
-                yaxis_title='Número de drones cadastrados',height=700)
-app = dash.Dash()
-app.layout = html.Div([
-dcc.Graph(id='rank1', figure=fig)])
+                yaxis_title='Número de drones cadastrados')
 
-app.run_server(debug=False, use_reloader=True)
+plotly.io.write_html(fig, file="./../website/webviews/area-fabricante.html", full_html=False, default_height="80%")
