@@ -50,9 +50,10 @@ def prepareData():
     numDrones = []
     for key in ramoByYear:
         for key2 in ramoByYear[key]:
-            anos.append(key)
-            ramos.append(key2)
-            numDrones.append(ramoByYear[key][key2])
+            if(key2 !='Não Informado'):
+                anos.append(key)
+                ramos.append(key2)
+                numDrones.append(ramoByYear[key][key2])
     d = {'Ano': anos, 'Ramo': ramos, 'Drones cadastrados': numDrones}
     return pd.DataFrame(d)
 
@@ -64,8 +65,8 @@ if __name__ == '__main__':
     fig.add_trace(go.Bar(x= data_filtered['Drones cadastrados'], y= data['Ramo'].unique(), name="2019", orientation='h', marker=dict(color="#5AAA95"), hovertemplate = "drones cadastrados: %{hovertext}<extra></extra>", hovertext = data_filtered['Drones cadastrados']))
     data_filtered = data[data.Ano == "2020"]
     fig.add_trace(go.Bar(x= data_filtered['Drones cadastrados'], y= data['Ramo'].unique(), name="2020", orientation='h',marker=dict(color="#BB9F06"), hovertemplate = "drones cadastrados: %{hovertext}<extra></extra>", hovertext = data_filtered['Drones cadastrados']))
-    fig.update_layout(title='Drones cadastrados ao longo dos anos por ramo', barmode='stack', yaxis={'categoryorder':'sum ascending', 'title' : 'Ramo'}, xaxis={'title': 'Drones Cadastrados'}, height=700)
-    fig.update_xaxes(range=[0,56000])
+    fig.update_layout(title='Ranking de drones cadastrados por ramo de atividade', barmode='stack', yaxis={'categoryorder':'sum ascending', 'title' : 'Ramo'}, xaxis={'title': 'Drones Cadastrados'}, height=700)
+    fig.update_xaxes(range=[0,9000])
 
     app = dash.Dash()
     app.layout = html.Div([

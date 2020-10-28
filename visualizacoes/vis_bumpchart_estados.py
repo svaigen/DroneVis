@@ -82,7 +82,7 @@ def prepareData():
 if __name__ == '__main__':
     estados, data = prepareData()
     fig = go.Figure()
-    pallete = util.getPallete27colors()
+    pallete = util.colorViridis(8)
     counter = 0
     for estado in estados:
       r = pallete[counter][0]

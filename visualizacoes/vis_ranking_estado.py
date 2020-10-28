@@ -69,7 +69,7 @@ if __name__ == '__main__':
     fig.add_trace(go.Bar(x= data_filtered['Drones cadastrados'], y= data['Estado'].unique(), name="2019", orientation='h', marker=dict(color="#5AAA95"), hovertemplate = "drones cadastrados: %{hovertext}<extra></extra>", hovertext = data_filtered['Drones cadastrados']))
     data_filtered = data[data.Ano == "2020"]
     fig.add_trace(go.Bar(x= data_filtered['Drones cadastrados'], y= data['Estado'].unique(), name="2020", orientation='h', marker=dict(color="#BB9F06"), hovertemplate = "drones cadastrados: %{hovertext}<extra></extra>", hovertext = data_filtered['Drones cadastrados']))
-    fig.update_layout(title='Drones cadastrados ao longo dos anos por estado', barmode='stack', yaxis={'categoryorder':'sum ascending', 'title' : 'Estado'}, xaxis={'title' : 'Drones cadastrados'}, height=700)
+    fig.update_layout(title='Ranking de drones cadastrados ao longo dos anos por estado', barmode='stack', yaxis={'categoryorder':'sum ascending', 'title' : 'Estado'}, xaxis={'title' : 'Drones cadastrados'}, height=700)
     fig.update_xaxes(range=[0,27000])
 
     app = dash.Dash()
