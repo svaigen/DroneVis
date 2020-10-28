@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+        <title>DroneVis</title>
+        <script>
+            $('iframe').load(function(){$(this).height($(this).contents().outerHeight());});
+        </script>
+    </head>
+    <body>
+        <main role="main">
+            <nav class="navbar navbar-default">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                          </button>
+                        <a class="navbar-brand" href="./index.html">DroneVis</a>
+                    </div>
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav">
+                            <li><a href="./index.html">Início</a></li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Visualizações <span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                  <li><a href="./rank-drone-regiao.html">Ranking de regiões com maior número de drones</a></li>
+                                  <li><a href="./rank-drone-estado-acumulado.html">Ranking de estados com maior número de drones por ano</a></li>
+                                  <li><a href="./bumpchart-estados.html">Bumpchart de estados com maior cadastro de drones ao longo dos trimestres</a></li>
+                                  <li><a href="./linha-drone.html">Série temporal do cadastro de drones por estado ao longo dos anos</a></li>
+                                  <li><a href="./peqmult-drone.html">Pequenos múltiplos do cadastro de drones por estado ao longo dos anos</a></li>
+                                  <li><a href="./rank-ramo.html">Ranking de ramos de atuação por ano</a></li>
+                                  <li><a href="./treemap-proprietarios.html">Treemap de distribuição de proprietários com maior número de drones por estado e cidade</a></li>
+                                  <li><a href="./area-fabricante.html">Áreas empilhadas de fabricantes de drones ao longo dos anos</a></li>                                  
+                                </ul>
+                            </li>
+                            <li><a href="./contato.html">Contato</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+
+            <div class="container">
+                <div class="jumbotron">
+                    <div class="row">
+                        <h2>Ranking de regiões com maior número de drones</h2>
+                        <form class="form-inline">
+                            <div class="form-group">
+                                <label>Filtros</label>
+                                <select id="regioes" class="form-control">
+                                    <option value="0"> Selecione a região </option>
+                                    <option value="sudeste"> Sudeste </option>
+                                    <option value="sul"> Sul </option>
+                                    <option value="nordeste"> Nordeste </option>
+                                    <option value="centro-oeste"> Centro-Oeste </option>
+                                    <option value="norte"> Norte </option>
+                                </select>
+                                <select id="estados" style="display:none;" class="form-control">
+                                    <option value="0"> Selecione o estado </option>
+                                </select>
+                            </div>
+                        </form>
+                        <iframe 
+                            src="./webviews/vis_ranking_regiao.html" 
+                            frameborder="0" 
+                            scrolling="no"  
+                            style="width: 100%; height: 500px;" 
+                            id="vis">
+                        </iframe>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </body>
+    <script>
+        $('#regioes').on('change', function() {
+            switch(this.value){
+                case '0':
+                    $('#estados').hide();
+                    loadIframe("vis","./webviews/vis_ranking_regiao.html")
+                    break;
+                case 'sul':
+                    $('#estados').children().remove().end().append('<option value=\"0\"">Escolha o estado</option>').append('<option value=\"pr\"">PR</option>').append('<option value=\"rs\">RS</option>').append('<option value=\"sc\">SC</option>')
+                    $('#estados').show();
+                    loadIframe("vis","./webviews/vis_ranking_sul.html")
+                    break;
+                case 'centro-oeste':
+                    $('#estados').children().remove().end().append('<option value=\"0\"">Escolha o estado</option>').append('<option value=\"df\">DF</option>').append('<option value=\"go\"">GO</option>').append('<option value=\"ms\">MS</option>').append('<option value=\"mt\">MT</option>')
+                    $('#estados').show();
+                    loadIframe("vis","./webviews/vis_ranking_centro-oeste.html")
+                    break;
+                case 'sudeste':
+                    $('#estados').children().remove().end().append('<option value=\"0\"">Escolha o estado</option>').append('<option value=\"sp\"">SP</option>').append('<option value=\"rj\">RJ</option>').append('<option value=\"mg\">MG</option>').append('<option value=\"es\">ES</option>')
+                    $('#estados').show();
+                    loadIframe("vis","./webviews/vis_ranking_sudeste.html")
+                    break;
+                case 'nordeste':
+                    $('#estados').children().remove().end().append('<option value=\"0\"">Escolha o estado</option>').append('<option value=\"ba\"">BA</option>').append('<option value=\"pe\">PE</option>').append('<option value=\"ce\">CE</option>').append('<option value=\"rn\">RN</option>').append('<option value=\"se\">SE</option>').append('<option value=\"pb\">PB</option>').append('<option value=\"ma\">MA</option>').append('<option value=\"al\">AL</option>').append('<option value=\"pi\">PI</option>')
+                    $('#estados').show();
+                    loadIframe("vis","./webviews/vis_ranking_nordeste.html")
+                    break;
+                case 'norte':
+                    $('#estados').children().remove().end().append('<option value=\"0\"">Escolha o estado</option>').append('<option value=\"pa\">PA</option>').append('<option value=\"am\"">AM</option>').append('<option value=\"ro\">RO</option>').append('<option value=\"to\">TO</option>').append('<option value=\"rr\">RR</option>').append('<option value=\"ap\">AP</option>').append('<option value=\"ac\">AC</option>')
+                    $('#estados').show();
+                    loadIframe("vis","./webviews/vis_ranking_norte.html")
+                    break;
+            }
+
+        });
+
+        $('#estados').on('change', function() {
+            if (this.value == '0'){
+                loadIframe("vis","./webviews/vis_ranking_" + $('#regioes').val() + ".html")
+            } else {
+                loadIframe("vis","./webviews/vis_ranking_" + $('#regioes').val() + "_" +this.value+ ".html")
+            }
+        });
+
+        function loadIframe(iframeName, url) {
+            var $iframe = $('#' + iframeName);
+            if ( $iframe.length ) {
+                $iframe.attr('src',url);   
+                return false;
+            }
+            return true;
+        }
+    </script>
+</html>

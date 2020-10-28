@@ -55,7 +55,7 @@ if __name__ == '__main__':
     cidadeDf = cidadeDf.rename(columns={0: 'regiao',1: 'estado', 2:'cidade', 3: 'drones'})
 
     fig = go.Figure(go.Bar(x= regiaoDf['drones'], y= regiaoDf.index, name="Drones por região", orientation='h', marker=dict(color="#095256"), hovertemplate = "Drones cadastrados: %{hovertext}<extra></extra>", hovertext = regiaoDf['drones']))
-    fig.update_layout(title='Total de drones cadastrados por região', yaxis={'categoryorder':'sum ascending', 'title' : 'Região'}, xaxis={'title' : 'Drones cadastrados'})
+    fig.update_layout(yaxis={'categoryorder':'sum ascending', 'title' : 'Região'}, xaxis={'title' : 'Drones cadastrados'}, margin={'t':15})
     plotly.io.write_html(fig,"../website/webviews/vis_ranking_regiao.html",full_html=False)
 
     for regiao in dataEstado:
@@ -73,22 +73,4 @@ if __name__ == '__main__':
             fig.update_layout(title='Número de drones cadastrados nas 10 cidades com mais registros no estado {}'.format(estado), yaxis={'categoryorder':'sum ascending', 'title' : 'Cidade'}, xaxis={'title' : 'Drones cadastrados'})
             plotly.io.write_html(fig,"../website/webviews/vis_ranking_{}_{}.html".format(regiao.lower(), estado.lower()),full_html=False)
 
-    # data_filtered = cidadeDf[cidadeDf.regiao == "Norte"]
-    # data_filtered = data_filtered[data_filtered.estado == 'RR']
-    # data_filtered.sort_values(by=['drones'])
-    # data_filtered = data_filtered[0:10]
-    # fig = go.Figure(go.Bar(x= data_filtered['drones'], y= data_filtered['cidade'], name="Drones por região", orientation='h', marker=dict(color="#095256")))
-    # data_filtered = data[data.Ano == "2019"]
-    # fig.add_trace(go.Bar(x= data_filtered['Drones cadastrados'], y= data['Estado'].unique(), name="2019", orientation='h', marker=dict(color="#5AAA95"), hovertemplate = "drones cadastrados: %{hovertext}<extra></extra>", hovertext = data_filtered['Drones cadastrados']))
-    # data_filtered = data[data.Ano == "2020"]
-    # fig.add_trace(go.Bar(x= data_filtered['Drones cadastrados'], y= data['Estado'].unique(), name="2020", orientation='h', marker=dict(color="#BB9F06"), hovertemplate = "drones cadastrados: %{hovertext}<extra></extra>", hovertext = data_filtered['Drones cadastrados']))
-    # fig.update_layout(title='Total de drones cadastrados por região', yaxis={'categoryorder':'sum ascending', 'title' : 'Região'}, xaxis={'title' : 'Drones cadastrados'}, height=700)
-    # fig.update_xaxes(range=[0,27000])
-
-    # app = dash.Dash()
-    # app.layout = html.Div([
-    #     dcc.Graph(id='rank1', figure=fig)
-    # ]
-    # )
-
-    # app.run_server(debug=False, use_reloader=True)
+    
