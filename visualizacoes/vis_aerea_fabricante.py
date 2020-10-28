@@ -66,9 +66,9 @@ for data in allData:
 
 colors = []
 
-for c in px.colors.cyclical.Phase:
+for c in px.colors.cyclical.IceFire:
     colors.append(c)
-for c in px.colors.cyclical.Twilight:
+for c in px.colors.cyclical.Phase:
     colors.append(c)
 
 
@@ -77,6 +77,7 @@ fig = go.Figure()
 for f in fab.keys():
     fig.add_trace(go.Scatter(
         x=time, y=fab[f],
+        hovertemplate='<b>%{x} </b> <br> Drones cadastrados %{y}',
         hoverinfo='x+y',
         mode='lines',
         name=f,
@@ -87,7 +88,7 @@ for f in fab.keys():
     cont +=1
 
 
-fig.update_layout(title="Distribuição ao longo dos anos de quantidade de drones por fabricante",
+fig.update_layout(title="Relação parte todo entre quantidade de drones e fabricante",
                 #xaxis_title='Month',
                 yaxis_title='Número de drones cadastrados',height=700)
 app = dash.Dash()
